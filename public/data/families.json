@@ -1,0 +1,82 @@
+[
+  {
+    "branch_name": "黄桥支系",
+    "family_id": "F-001",
+    "genealogy_or_carrier": "泰兴《何氏家乘》",
+    "hall_name": "世家堂",
+    "note": "家族形成与承传",
+    "primary_place": "泰州泰兴黄桥",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      }
+    ],
+    "standard_name": "泰兴何氏"
+  },
+  {
+    "branch_name": "溱潼支系",
+    "family_id": "F-002",
+    "genealogy_or_carrier": "姜堰《李氏宗谱》",
+    "hall_name": "青莲堂",
+    "note": "汇编目录另作《李氏世谱》",
+    "primary_place": "泰州姜堰溱潼",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "standard_name": "姜堰李氏"
+  },
+  {
+    "branch_name": "扬州何园支系",
+    "family_id": "F-003",
+    "genealogy_or_carrier": "安徽望江吉水何氏家谱（原文表述待进一步核名）",
+    "hall_name": null,
+    "note": "接受、承传与当代展示",
+    "primary_place": "扬州",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "standard_name": "何园何氏"
+  },
+  {
+    "branch_name": "张謇家族",
+    "family_id": "F-004",
+    "genealogy_or_carrier": "碑刻与家庙承传",
+    "hall_name": null,
+    "note": "1921年形成",
+    "primary_place": "南通",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "南通张氏"
+  },
+  {
+    "branch_name": "苏州义庄支系",
+    "family_id": "F-005",
+    "genealogy_or_carrier": "范氏义庄",
+    "hall_name": null,
+    "note": "范仲淹初定，后人多次续定",
+    "primary_place": "苏州",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "standard_name": "范氏"
+  }
+]
