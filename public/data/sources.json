@@ -1,0 +1,244 @@
+[
+  {
+    "author_or_institution": "中共江苏省委宣传部编著",
+    "note": "文件所据正式出版页",
+    "pdf_page": null,
+    "print_page": "8",
+    "publication_or_publisher": "江苏人民出版社",
+    "publication_year": "2016",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-001",
+        "relation_note": "第8页",
+        "relation_type": "主要核录来源",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "source_id": "S-001",
+    "source_title": "江苏历史名人家训选编",
+    "source_type": "纸本出版物",
+    "url": null,
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "严可均辑",
+    "note": "各段下注《古文苑》",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "清代辑本",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-001",
+        "relation_note": "卷一",
+        "relation_type": "传本参照",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "source_id": "S-002",
+    "source_title": "全汉文 卷一",
+    "source_type": "在线古籍",
+    "url": "https://zh.wikisource.org/zh-hans/%E5%85%A8%E6%BC%A2%E6%96%87/%E5%8D%B7%E4%B8%80",
+    "volume_section": "卷一"
+  },
+  {
+    "author_or_institution": "严可均辑",
+    "note": "文末注明据多种类书辑补",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "清代辑本",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-002",
+        "relation_note": "卷三十六",
+        "relation_type": "主要核录来源",
+        "standard_title": "刘向《诫子歆书》"
+      }
+    ],
+    "source_id": "S-003",
+    "source_title": "全汉文 卷三十六",
+    "source_type": "在线古籍",
+    "url": "https://zh.wikisource.org/zh-hans/%E5%85%A8%E6%BC%A2%E6%96%87/%E5%8D%B7%E4%B8%89%E5%8D%81%E5%85%AD",
+    "volume_section": "卷三十六"
+  },
+  {
+    "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+    "note": "六项节选",
+    "pdf_page": "4—5",
+    "print_page": "126—127",
+    "publication_or_publisher": null,
+    "publication_year": null,
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-001",
+        "relation_note": "原书126—127页 PDF第4—5页",
+        "relation_type": "主要核录来源",
+        "standard_title": "何济《何氏家范条件十则》"
+      }
+    ],
+    "source_id": "S-004",
+    "source_title": "第九章 泰兴《何氏家乘》（世家堂）",
+    "source_type": "官方PDF",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/5487a7968de94920abc4029badb11a56.pdf",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+    "note": "手书影像116—117页，释文118页，背景120页",
+    "pdf_page": "4",
+    "print_page": "116—120",
+    "publication_or_publisher": null,
+    "publication_year": null,
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-002",
+        "relation_note": "原书116—118页 PDF第4页",
+        "relation_type": "主要核录来源",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "source_id": "S-005",
+    "source_title": "第八章 姜堰《李氏宗谱》（青莲堂）",
+    "source_type": "官方PDF",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/f2f6cad4469145679a1eab5e12c761af.pdf",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "中央纪委国家监委",
+    "note": "2016-04-18发布",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "2016",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "relation_note": "无页码",
+        "relation_type": "传承关系来源",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "source_id": "S-006",
+    "source_title": "江苏扬州何园 祖孙翰林 兄弟博士 父女画家 姐弟院士 晚清第一园人才辈出",
+    "source_type": "官方专题",
+    "url": "https://www.ccdi.gov.cn/yaowen/201604/t20160418_141360.html",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "南通大学南通廉政研究中心",
+    "note": "2015-07-29发布",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "2015",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "无页码",
+        "relation_type": "元数据与引语线索来源",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "source_id": "S-007",
+    "source_title": "张謇《家诫》",
+    "source_type": "高校网站",
+    "url": "https://lzwh.ntu.edu.cn/2015/0729/c516a29730/page.htm",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "范仲淹等",
+    "note": "稳定卷篇定位",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": "钦定古今图书集成 明伦汇编 家范典",
+    "publication_year": null,
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "卷一百",
+        "relation_type": "稳定卷篇来源",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "source_id": "S-008",
+    "source_title": "范氏义庄规矩",
+    "source_type": "在线古籍",
+    "url": "https://www.shidianguji.com/book/GJTS12/chapter/1lphelhl1l7vy",
+    "volume_section": "卷一百"
+  },
+  {
+    "author_or_institution": "楼含松主编",
+    "note": "现代整理本",
+    "pdf_page": null,
+    "print_page": "144—151",
+    "publication_or_publisher": "浙江古籍出版社",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "第144—151页",
+        "relation_type": "现代整理本参照",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "source_id": "S-009",
+    "source_title": "中国历代家训集成 第1册",
+    "source_type": "纸本出版物",
+    "url": null,
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "朱用纯著 陆林 吴家驹选注评析",
+    "note": "URL仅作公开传本参考",
+    "pdf_page": null,
+    "print_page": "3—5",
+    "publication_or_publisher": "江苏古籍出版社",
+    "publication_year": "2002",
+    "records": [
+      {
+        "era": "明末清初",
+        "record_id": "JX-SN-002",
+        "relation_note": "第3—5页",
+        "relation_type": "主要核录来源",
+        "standard_title": "朱用纯《治家格言》"
+      }
+    ],
+    "source_id": "S-010",
+    "source_title": "朱柏庐诗文选",
+    "source_type": "纸本出版物",
+    "url": "https://zh.wikisource.org/zh-hans/%E6%9C%B1%E5%AD%90%E5%AE%B6%E8%A8%93",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+    "note": "所录篇章为第二书",
+    "pdf_page": "3",
+    "print_page": "501",
+    "publication_or_publisher": "家风家训电子资料",
+    "publication_year": null,
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-005",
+        "relation_note": "原书501页 PDF第3页",
+        "relation_type": "主要核录来源",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "source_id": "S-011",
+    "source_title": "郑板桥家书（两则）",
+    "source_type": "官方PDF",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/2e35548fce9043d09ecf216b8cce7042.pdf",
+    "volume_section": null
+  }
+]

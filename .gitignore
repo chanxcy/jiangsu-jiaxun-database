@@ -1,0 +1,12 @@
+*.sqlite
+*.sqlite3
+*.db
+*.xlsx
+*.xls
+*.zip
+.env
+.DS_Store
+__pycache__/
+.pytest_cache/
+dist/
+

@@ -1,0 +1,315 @@
+[
+  {
+    "alternative_name": "汉高祖",
+    "era": "西汉",
+    "historical_native_place": "沛丰邑中阳里",
+    "modern_corresponding_place": "今徐州丰县",
+    "note": "作者",
+    "person_id": "P-001",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-001",
+        "relation_note": null,
+        "relation_type": "作者",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "standard_name": "刘邦"
+  },
+  {
+    "alternative_name": null,
+    "era": "西汉",
+    "historical_native_place": "彭城",
+    "modern_corresponding_place": "今徐州",
+    "note": "作者",
+    "person_id": "P-002",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-002",
+        "relation_note": null,
+        "relation_type": "作者",
+        "standard_title": "刘向《诫子歆书》"
+      },
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "七位原语作者之一",
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "刘向"
+  },
+  {
+    "alternative_name": null,
+    "era": "西汉",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "受训对象，初任黄门侍郎时",
+    "person_id": "P-003",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-002",
+        "relation_note": "初任黄门侍郎时",
+        "relation_type": "受训对象",
+        "standard_title": "刘向《诫子歆书》"
+      }
+    ],
+    "standard_name": "刘歆"
+  },
+  {
+    "alternative_name": null,
+    "era": "明代",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "官方汇编称正统七年受旌后制定家范",
+    "person_id": "P-004",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-001",
+        "relation_note": null,
+        "relation_type": "制定者",
+        "standard_title": "何济《何氏家范条件十则》"
+      }
+    ],
+    "standard_name": "何济"
+  },
+  {
+    "alternative_name": null,
+    "era": "清代",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "光绪庚寅署款",
+    "person_id": "P-005",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-002",
+        "relation_note": null,
+        "relation_type": "作者或书写者",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "standard_name": "李贞发"
+  },
+  {
+    "alternative_name": null,
+    "era": "明代",
+    "historical_native_place": "浙江",
+    "modern_corresponding_place": null,
+    "note": "《何氏家规》原作者",
+    "person_id": "P-006",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "relation_note": "原作者并非江苏人",
+        "relation_type": "原作者",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "standard_name": "何伦"
+  },
+  {
+    "alternative_name": null,
+    "era": "民国",
+    "historical_native_place": "南通",
+    "modern_corresponding_place": "南通",
+    "note": "编选者、序言作者及书写者",
+    "person_id": "P-007",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "序言作者",
+        "relation_type": "编选者或书写者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "张謇"
+  },
+  {
+    "alternative_name": null,
+    "era": "三国",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "张謇《家诫》所选原语作者之一",
+    "person_id": "P-008",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": null,
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "诸葛亮"
+  },
+  {
+    "alternative_name": null,
+    "era": "三国",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "张謇《家诫》所选原语作者之一",
+    "person_id": "P-009",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": null,
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "王修"
+  },
+  {
+    "alternative_name": null,
+    "era": "南北朝",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "张謇《家诫》所选原语作者之一",
+    "person_id": "P-010",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": null,
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "颜之推"
+  },
+  {
+    "alternative_name": null,
+    "era": "唐代",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "张謇《家诫》所选原语作者之一",
+    "person_id": "P-011",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": null,
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "柳玭"
+  },
+  {
+    "alternative_name": null,
+    "era": "宋代",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "张謇《家诫》所选原语作者之一",
+    "person_id": "P-012",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": null,
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "胡安国"
+  },
+  {
+    "alternative_name": null,
+    "era": "南宋",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "张謇《家诫》所选原语作者之一",
+    "person_id": "P-013",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": null,
+        "relation_type": "原语作者",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "朱熹"
+  },
+  {
+    "alternative_name": null,
+    "era": "北宋",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "义庄规矩初定者",
+    "person_id": "P-014",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "后人多次续定",
+        "relation_type": "初定者",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "standard_name": "范仲淹"
+  },
+  {
+    "alternative_name": "朱柏庐",
+    "era": "明末清初",
+    "historical_native_place": "昆山",
+    "modern_corresponding_place": "昆山",
+    "note": "作者；《治家格言》后世常称《朱子家训》",
+    "person_id": "P-015",
+    "records": [
+      {
+        "era": "明末清初",
+        "record_id": "JX-SN-002",
+        "relation_note": null,
+        "relation_type": "作者",
+        "standard_title": "朱用纯《治家格言》"
+      }
+    ],
+    "standard_name": "朱用纯"
+  },
+  {
+    "alternative_name": "郑板桥",
+    "era": "清代",
+    "historical_native_place": "兴化",
+    "modern_corresponding_place": "江苏兴化",
+    "note": "作者，晚年寄寓扬州",
+    "person_id": "P-016",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-005",
+        "relation_note": null,
+        "relation_type": "作者",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "standard_name": "郑燮"
+  },
+  {
+    "alternative_name": null,
+    "era": "清代",
+    "historical_native_place": null,
+    "modern_corresponding_place": null,
+    "note": "郑燮堂弟，书信受信人",
+    "person_id": "P-017",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-005",
+        "relation_note": "堂弟郑墨",
+        "relation_type": "受信对象",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "standard_name": "郑墨"
+  }
+]
