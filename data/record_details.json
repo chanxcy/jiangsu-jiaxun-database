@@ -1,0 +1,1903 @@
+{
+  "JX-SB-001": {
+    "carrier_type": "后世文献传本",
+    "created_at": "2026-09-06",
+    "document_type": "诫子书",
+    "entry_note": "传世辑本，不登记为汉代手稿原件。",
+    "era": "西汉",
+    "family_id": null,
+    "family_name": null,
+    "jiangsu_relation_summary": "刘邦为沛丰邑中阳里人，按今徐州丰县地域关系纳入。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": "汉高祖",
+        "era": "西汉",
+        "historical_native_place": "沛丰邑中阳里",
+        "modern_corresponding_place": "今徐州丰县",
+        "note": "作者",
+        "person_id": "P-001",
+        "relation_note": null,
+        "role": "作者",
+        "standard_name": "刘邦"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": "丰县",
+        "evidence_note": "刘邦为沛丰邑中阳里人",
+        "historical_name": "沛丰邑中阳里",
+        "modern_name": "江苏省徐州市丰县",
+        "note": "古今地名对应需保留证据",
+        "place_id": "PL-001",
+        "prefecture_city": "徐州市",
+        "province": "江苏省",
+        "relation_type": "作者出生地或人物地域关系",
+        "time_note": null,
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-001",
+    "primary_person_name": "刘邦",
+    "record_id": "JX-SB-001",
+    "record_status": "正式入库",
+    "region": "苏北",
+    "short_title": "手敕太子文",
+    "sources": [
+      {
+        "author_or_institution": "中共江苏省委宣传部编著",
+        "locator": "第8页",
+        "note": "文件所据正式出版页",
+        "pdf_page": null,
+        "print_page": "8",
+        "publication_or_publisher": "江苏人民出版社",
+        "publication_year": "2016",
+        "source_id": "S-001",
+        "source_purpose": "主要核录来源",
+        "source_title": "江苏历史名人家训选编",
+        "source_type": "纸本出版物",
+        "source_verification_level": "A",
+        "url": null,
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "待补",
+            "pdf_page": null,
+            "print_page": "8",
+            "publication_year": "2016",
+            "responsible_entity": "中共江苏省委宣传部编著",
+            "source_id": "S-001",
+            "source_version_id": "SV-001",
+            "transcription_or_collation_status": "已按文件核录",
+            "version_note": "文件所据正式出版页",
+            "version_or_title": "江苏历史名人家训选编",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      },
+      {
+        "author_or_institution": "严可均辑",
+        "locator": "卷一",
+        "note": "各段下注《古文苑》",
+        "pdf_page": null,
+        "print_page": null,
+        "publication_or_publisher": null,
+        "publication_year": "清代辑本",
+        "source_id": "S-002",
+        "source_purpose": "传本参照",
+        "source_title": "全汉文 卷一",
+        "source_type": "在线古籍",
+        "source_verification_level": "B",
+        "url": "https://zh.wikisource.org/zh-hans/%E5%85%A8%E6%BC%A2%E6%96%87/%E5%8D%B7%E4%B8%80",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": null,
+            "print_page": null,
+            "publication_year": "清代辑本",
+            "responsible_entity": "严可均辑",
+            "source_id": "S-002",
+            "source_version_id": "SV-002",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "各段下注《古文苑》",
+            "version_or_title": "全汉文 卷一",
+            "volume_section": "卷一"
+          }
+        ],
+        "volume_section": "卷一"
+      }
+    ],
+    "standard_title": "刘邦《手敕太子文》",
+    "text_scope": "全文",
+    "text_units": [
+      {
+        "annotation": null,
+        "original_text": "吾遭乱世，当秦禁学，自喜，谓读书无益。洎践祚以来，时方省书，乃使人知作者之意，追思昔所行，多不是。",
+        "record_id": "JX-SB-001",
+        "revision_or_creation_time": null,
+        "section_title": "第一段",
+        "sequence_no": 1,
+        "text_scope": "全文",
+        "text_unit_id": "TU-001",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "尧舜不以天子与子而与他人，此非为不惜天下，但子不中立耳。人有好牛马尚惜，况天下耶？吾以尔是元子，早有立意。群臣咸称汝友四皓，吾所不能致，而为汝来，为可任大事也。今定汝为嗣。",
+        "record_id": "JX-SB-001",
+        "revision_or_creation_time": null,
+        "section_title": "第二段",
+        "sequence_no": 2,
+        "text_scope": "全文",
+        "text_unit_id": "TU-002",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "吾生不学书，但读书问字而遂知耳。以此故不大工，然亦足自辞解。今视汝书，犹不如吾。汝可勤学习。每上疏，宜自书，勿使人也。",
+        "record_id": "JX-SB-001",
+        "revision_or_creation_time": null,
+        "section_title": "第三段",
+        "sequence_no": 3,
+        "text_scope": "全文",
+        "text_unit_id": "TU-003",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "汝见萧、曹、张、陈诸公侯，吾同时人，倍年于汝者，皆拜，并语于汝诸弟。",
+        "record_id": "JX-SB-001",
+        "revision_or_creation_time": null,
+        "section_title": "第四段",
+        "sequence_no": 4,
+        "text_scope": "全文",
+        "text_unit_id": "TU-004",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "吾得疾遂困，以如意母子相累，其余诸儿皆自足立，哀此儿犹小也。",
+        "record_id": "JX-SB-001",
+        "revision_or_creation_time": null,
+        "section_title": "第五段",
+        "sequence_no": 5,
+        "text_scope": "全文",
+        "text_unit_id": "TU-005",
+        "unit_type": "正文",
+        "variant_note": null
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "人与社区、乡里、社会及自然万物的关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-001",
+        "theme_name": "人与附近"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "修身、自省、处世与个人行为",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-002",
+        "theme_name": "人与自己"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "鼓励学习与读书",
+        "level": "二级",
+        "parent_name": "人与学习",
+        "parent_theme_id": "TH-004",
+        "status": "启用",
+        "theme_id": "TH-005",
+        "theme_name": "劝学"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "反思自身行为",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-006",
+        "theme_name": "自我反省"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "亲笔书写与直接表达",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-007",
+        "theme_name": "亲自表达"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "A"
+  },
+  "JX-SB-002": {
+    "carrier_type": "《全汉文》辑本",
+    "created_at": "2026-09-06",
+    "document_type": "家书",
+    "entry_note": "记录辑佚或辑本属性；彭城地域关系与文本形成地分列。",
+    "era": "西汉",
+    "family_id": null,
+    "family_name": null,
+    "jiangsu_relation_summary": "刘向为西汉彭城人，今徐州地域。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": null,
+        "era": "西汉",
+        "historical_native_place": "彭城",
+        "modern_corresponding_place": "今徐州",
+        "note": "作者",
+        "person_id": "P-002",
+        "relation_note": null,
+        "role": "作者",
+        "standard_name": "刘向"
+      },
+      {
+        "alternative_name": null,
+        "era": "西汉",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "受训对象，初任黄门侍郎时",
+        "person_id": "P-003",
+        "relation_note": "初任黄门侍郎时",
+        "role": "受训对象",
+        "standard_name": "刘歆"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "刘向为西汉彭城人",
+        "historical_name": "彭城",
+        "modern_name": "江苏省徐州市",
+        "note": "西汉人物地域关系",
+        "place_id": "PL-002",
+        "prefecture_city": "徐州市",
+        "province": "江苏省",
+        "relation_type": "作者籍贯",
+        "time_note": null,
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-002",
+    "primary_person_name": "刘向",
+    "record_id": "JX-SB-002",
+    "record_status": "正式入库",
+    "region": "苏北",
+    "short_title": "诫子歆书",
+    "sources": [
+      {
+        "author_or_institution": "严可均辑",
+        "locator": "卷三十六",
+        "note": "文末注明据多种类书辑补",
+        "pdf_page": null,
+        "print_page": null,
+        "publication_or_publisher": null,
+        "publication_year": "清代辑本",
+        "source_id": "S-003",
+        "source_purpose": "主要核录来源",
+        "source_title": "全汉文 卷三十六",
+        "source_type": "在线古籍",
+        "source_verification_level": "B",
+        "url": "https://zh.wikisource.org/zh-hans/%E5%85%A8%E6%BC%A2%E6%96%87/%E5%8D%B7%E4%B8%89%E5%8D%81%E5%85%AD",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": null,
+            "print_page": null,
+            "publication_year": "清代辑本",
+            "responsible_entity": "严可均辑",
+            "source_id": "S-003",
+            "source_version_id": "SV-003",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "文末注明据多种类书辑补",
+            "version_or_title": "全汉文 卷三十六",
+            "volume_section": "卷三十六"
+          }
+        ],
+        "volume_section": "卷三十六"
+      }
+    ],
+    "standard_title": "刘向《诫子歆书》",
+    "text_scope": "全文",
+    "text_units": [
+      {
+        "annotation": null,
+        "original_text": "告歆无忽，若未有异德，蒙恩甚厚，将何以报？董生有云：“吊者在门，贺者在闾。”言有忧则恐惧敬事，敬事则必有善功而福至也。又曰：“贺者在门，吊者在闾。”言受福则骄奢，骄奢则祸至，故吊随而来。齐顷公之始，藉霸者之余威，轻侮诸侯，亏跂蹇之容，故被鞍之祸，遁服而亡。所谓“贺者在门，吊者在闾”也。兵败师破，人皆吊之，恐惧自新，百姓爱之，诸侯皆归其所夺邑。所谓“吊者在门，贺者在闾”。今若年少，得黄门侍郎，要显处也。新拜皆谢贵人叩头，谨战战栗栗，乃可必免。",
+        "record_id": "JX-SB-002",
+        "revision_or_creation_time": null,
+        "section_title": "全文",
+        "sequence_no": 1,
+        "text_scope": "全文",
+        "text_unit_id": "TU-006",
+        "unit_type": "正文",
+        "variant_note": "辑佚或辑本"
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "修身、自省、处世与个人行为",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-002",
+        "theme_name": "人与自己"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "显达时保持谨慎",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-008",
+        "theme_name": "得志戒骄"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "任职时敬慎自新",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-009",
+        "theme_name": "任职反省"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "B"
+  },
+  "JX-SN-001": {
+    "carrier_type": "文献传本与刻石",
+    "created_at": "2026-09-06",
+    "document_type": "义庄规约",
+    "entry_note": "四条来自初定与续定规条，应保留分节和修订日期。",
+    "era": "北宋",
+    "family_id": "F-005",
+    "family_name": "范氏",
+    "jiangsu_relation_summary": "苏州吴县、长洲县义田及天平山刻石关系。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": null,
+        "era": "北宋",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "义庄规矩初定者",
+        "person_id": "P-014",
+        "relation_note": "后人多次续定",
+        "role": "初定者",
+        "standard_name": "范仲淹"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "置义田",
+        "historical_name": "吴县",
+        "modern_name": "江苏省苏州市相关区域",
+        "note": "范仲淹置义田地",
+        "place_id": "PL-009",
+        "prefecture_city": "苏州市",
+        "province": "江苏省",
+        "relation_type": "制度形成地或义庄实施地",
+        "time_note": "北宋",
+        "township_street": null
+      },
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "置义田",
+        "historical_name": "长洲县",
+        "modern_name": "江苏省苏州市相关区域",
+        "note": "范仲淹置义田地",
+        "place_id": "PL-010",
+        "prefecture_city": "苏州市",
+        "province": "江苏省",
+        "relation_type": "制度形成地或义庄实施地",
+        "time_note": "北宋",
+        "township_street": null
+      },
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "规矩后刻石于此",
+        "historical_name": "天平山白云寺先公祠堂之侧",
+        "modern_name": "江苏省苏州市天平山",
+        "note": "规矩刻石地",
+        "place_id": "PL-011",
+        "prefecture_city": "苏州市",
+        "province": "江苏省",
+        "relation_type": "碑刻所在地",
+        "time_note": null,
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-014",
+    "primary_person_name": "范仲淹",
+    "record_id": "JX-SN-001",
+    "record_status": "正式入库",
+    "region": "苏南",
+    "short_title": "范氏义庄规矩",
+    "sources": [
+      {
+        "author_or_institution": "范仲淹等",
+        "locator": "卷一百",
+        "note": "稳定卷篇定位",
+        "pdf_page": null,
+        "print_page": null,
+        "publication_or_publisher": "钦定古今图书集成 明伦汇编 家范典",
+        "publication_year": null,
+        "source_id": "S-008",
+        "source_purpose": "稳定卷篇来源",
+        "source_title": "范氏义庄规矩",
+        "source_type": "在线古籍",
+        "source_verification_level": "B",
+        "url": "https://www.shidianguji.com/book/GJTS12/chapter/1lphelhl1l7vy",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": null,
+            "print_page": null,
+            "publication_year": null,
+            "responsible_entity": "范仲淹等",
+            "source_id": "S-008",
+            "source_version_id": "SV-008",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "稳定卷篇定位",
+            "version_or_title": "范氏义庄规矩",
+            "volume_section": "卷一百"
+          }
+        ],
+        "volume_section": "卷一百"
+      },
+      {
+        "author_or_institution": "楼含松主编",
+        "locator": "第144—151页",
+        "note": "现代整理本",
+        "pdf_page": null,
+        "print_page": "144—151",
+        "publication_or_publisher": "浙江古籍出版社",
+        "publication_year": "2017",
+        "source_id": "S-009",
+        "source_purpose": "现代整理本参照",
+        "source_title": "中国历代家训集成 第1册",
+        "source_type": "纸本出版物",
+        "source_verification_level": "B",
+        "url": null,
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "待补",
+            "pdf_page": null,
+            "print_page": "144—151",
+            "publication_year": "2017",
+            "responsible_entity": "楼含松主编",
+            "source_id": "S-009",
+            "source_version_id": "SV-009",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "现代整理本",
+            "version_or_title": "中国历代家训集成 第1册",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "范仲淹等《范氏义庄规矩》",
+    "text_scope": "四条核心节选",
+    "text_units": [
+      {
+        "annotation": null,
+        "original_text": "一逐房计口给米，每口一升，并支白米。如支糙米，即临时加折，支糙米每斗折白八升。逐月实支，每口白米三斗。",
+        "record_id": "JX-SN-001",
+        "revision_or_creation_time": null,
+        "section_title": "口粮供给",
+        "sequence_no": 1,
+        "text_scope": "节选",
+        "text_unit_id": "TU-015",
+        "unit_type": "正文",
+        "variant_note": "初定或续定待细分"
+      },
+      {
+        "annotation": null,
+        "original_text": "一乡里外姻亲戚如贫窘中非次急难，或遇年饥不能度日，诸房同共相度。诣实，即于义田米内量行济助。",
+        "record_id": "JX-SN-001",
+        "revision_or_creation_time": null,
+        "section_title": "急难救助",
+        "sequence_no": 2,
+        "text_scope": "节选",
+        "text_unit_id": "TU-016",
+        "unit_type": "正文",
+        "variant_note": "初定或续定待细分"
+      },
+      {
+        "annotation": null,
+        "original_text": "一诸位子弟内选曾得解或预贡有士行者二人充诸位教授，月给糙米五石。若遇米价每石及一贯以上，即每石支钱一贯。文虽不曾得解、预贡，而文行为众所知者，亦听选。仍诸位共议，本位无子弟入学者不得与议。若生徒不及六人，止给三石；及八人，给四石；及十人，全给。诸房量力出钱以助束修者听。",
+        "record_id": "JX-SN-001",
+        "revision_or_creation_time": null,
+        "section_title": "教授与教育供给",
+        "sequence_no": 3,
+        "text_scope": "节选",
+        "text_unit_id": "TU-017",
+        "unit_type": "正文",
+        "variant_note": "初定或续定待细分"
+      },
+      {
+        "annotation": null,
+        "original_text": "一义庄事惟听掌管人依规处置，其族人虽是尊长，不得侵扰干预；违者许掌管人申官理断。即掌管人有欺弊者，听诸位具实状申文正位。",
+        "record_id": "JX-SN-001",
+        "revision_or_creation_time": null,
+        "section_title": "管理边界",
+        "sequence_no": 4,
+        "text_scope": "节选",
+        "text_unit_id": "TU-018",
+        "unit_type": "正文",
+        "variant_note": "初定或续定待细分"
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "人与社区、乡里、社会及自然万物的关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-001",
+        "theme_name": "人与附近"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "救济贫困与急难",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-014",
+        "theme_name": "济困"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "家族制度、资源配置与管理边界",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-015",
+        "theme_name": "制度治理"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "家族教育资源与教师供给",
+        "level": "二级",
+        "parent_name": "人与学习",
+        "parent_theme_id": "TH-004",
+        "status": "启用",
+        "theme_id": "TH-016",
+        "theme_name": "教育供给"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "B"
+  },
+  "JX-SN-002": {
+    "carrier_type": "纸本文献传本",
+    "created_at": "2026-09-06",
+    "document_type": "格言式家训",
+    "entry_note": "网络传本存在异文；完整版待按选定纸本逐字校录。",
+    "era": "明末清初",
+    "family_id": null,
+    "family_name": null,
+    "jiangsu_relation_summary": "作者朱用纯为昆山人。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": "朱柏庐",
+        "era": "明末清初",
+        "historical_native_place": "昆山",
+        "modern_corresponding_place": "昆山",
+        "note": "作者；《治家格言》后世常称《朱子家训》",
+        "person_id": "P-015",
+        "relation_note": null,
+        "role": "作者",
+        "standard_name": "朱用纯"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": "昆山市",
+        "evidence_note": "朱用纯为昆山人",
+        "historical_name": "昆山",
+        "modern_name": "江苏省苏州市昆山市",
+        "note": "朱用纯籍贯",
+        "place_id": "PL-012",
+        "prefecture_city": "苏州市",
+        "province": "江苏省",
+        "relation_type": "作者籍贯",
+        "time_note": null,
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-015",
+    "primary_person_name": "朱用纯",
+    "record_id": "JX-SN-002",
+    "record_status": "正式入库",
+    "region": "苏南",
+    "short_title": "治家格言",
+    "sources": [
+      {
+        "author_or_institution": "朱用纯著 陆林 吴家驹选注评析",
+        "locator": "第3—5页",
+        "note": "URL仅作公开传本参考",
+        "pdf_page": null,
+        "print_page": "3—5",
+        "publication_or_publisher": "江苏古籍出版社",
+        "publication_year": "2002",
+        "source_id": "S-010",
+        "source_purpose": "主要核录来源",
+        "source_title": "朱柏庐诗文选",
+        "source_type": "纸本出版物",
+        "source_verification_level": "B",
+        "url": "https://zh.wikisource.org/zh-hans/%E6%9C%B1%E5%AD%90%E5%AE%B6%E8%A8%93",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": null,
+            "print_page": "3—5",
+            "publication_year": "2002",
+            "responsible_entity": "朱用纯著 陆林 吴家驹选注评析",
+            "source_id": "S-010",
+            "source_version_id": "SV-010",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "URL仅作公开传本参考",
+            "version_or_title": "朱柏庐诗文选",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "朱用纯《治家格言》",
+    "text_scope": "研究所用节选",
+    "text_units": [
+      {
+        "annotation": null,
+        "original_text": "黎明即起，洒扫庭除，要内外整洁；既昏便息，关锁门户，必亲自检点。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选一",
+        "sequence_no": 1,
+        "text_scope": "节选",
+        "text_unit_id": "TU-019",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "一粥一饭，当思来处不易；半丝半缕，恒念物力维艰。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选二",
+        "sequence_no": 2,
+        "text_scope": "节选",
+        "text_unit_id": "TU-020",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "居身务期质朴，训子要有义方。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选三",
+        "sequence_no": 3,
+        "text_scope": "节选",
+        "text_unit_id": "TU-021",
+        "unit_type": "正文",
+        "variant_note": "训子或教子存在异文"
+      },
+      {
+        "annotation": null,
+        "original_text": "读书志在圣贤，非徒科第。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选四",
+        "sequence_no": 4,
+        "text_scope": "节选",
+        "text_unit_id": "TU-022",
+        "unit_type": "正文",
+        "variant_note": "网络传本可能漏句或有异文"
+      },
+      {
+        "annotation": null,
+        "original_text": "家门和顺，虽饔飧不继，亦有余欢。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选五",
+        "sequence_no": 5,
+        "text_scope": "节选",
+        "text_unit_id": "TU-023",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "重资财，薄父母，不成人子。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选六",
+        "sequence_no": 6,
+        "text_scope": "节选",
+        "text_unit_id": "TU-024",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": "含历史性别观念",
+        "original_text": "听妇言，乖骨肉，岂是丈夫。",
+        "record_id": "JX-SN-002",
+        "revision_or_creation_time": null,
+        "section_title": "节选七",
+        "sequence_no": 7,
+        "text_scope": "节选",
+        "text_unit_id": "TU-025",
+        "unit_type": "正文",
+        "variant_note": null
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "人与社区、乡里、社会及自然万物的关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-001",
+        "theme_name": "人与附近"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "修身、自省、处世与个人行为",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-002",
+        "theme_name": "人与自己"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "亲子、兄弟、夫妇及家族关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-003",
+        "theme_name": "人与家庭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "奉养和尊敬父母长辈",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-010",
+        "theme_name": "孝亲"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "节制消费与勤劳持家",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-012",
+        "theme_name": "节俭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "历史性别分工与限制",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-013",
+        "theme_name": "性别规范"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "日常作息与家务秩序",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-017",
+        "theme_name": "作息"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "家庭和睦",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-018",
+        "theme_name": "和顺"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "B"
+  },
+  "JX-SZ-001": {
+    "carrier_type": "泰兴《何氏家乘》（世家堂）",
+    "created_at": "2026-09-06",
+    "document_type": "家范",
+    "entry_note": "只录六项正文；叙长幼、奖行谊、安生理、重茔祭仅建标题，不补写正文。",
+    "era": "明代",
+    "family_id": "F-001",
+    "family_name": "泰兴何氏",
+    "jiangsu_relation_summary": "泰州泰兴黄桥何氏家族形成并承传。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": null,
+        "era": "明代",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "官方汇编称正统七年受旌后制定家范",
+        "person_id": "P-004",
+        "relation_note": null,
+        "role": "制定者",
+        "standard_name": "何济"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": "泰兴市",
+        "evidence_note": "泰州泰兴黄桥何氏",
+        "historical_name": "泰兴黄桥",
+        "modern_name": "江苏省泰州市泰兴市黄桥镇",
+        "note": null,
+        "place_id": "PL-003",
+        "prefecture_city": "泰州市",
+        "province": "江苏省",
+        "relation_type": "家族形成与承传地",
+        "time_note": "明代以后",
+        "township_street": "黄桥镇"
+      }
+    ],
+    "primary_person_id": "P-004",
+    "primary_person_name": "何济",
+    "record_id": "JX-SZ-001",
+    "record_status": "正式入库",
+    "region": "苏中",
+    "short_title": "何氏家范条件十则",
+    "sources": [
+      {
+        "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+        "locator": "原书126—127页 PDF第4—5页",
+        "note": "六项节选",
+        "pdf_page": "4—5",
+        "print_page": "126—127",
+        "publication_or_publisher": null,
+        "publication_year": null,
+        "source_id": "S-004",
+        "source_purpose": "主要核录来源",
+        "source_title": "第九章 泰兴《何氏家乘》（世家堂）",
+        "source_type": "官方PDF",
+        "source_verification_level": "A",
+        "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/5487a7968de94920abc4029badb11a56.pdf",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": "4—5",
+            "print_page": "126—127",
+            "publication_year": null,
+            "responsible_entity": "泰州市党史方志办公室（泰州市档案馆）",
+            "source_id": "S-004",
+            "source_version_id": "SV-004",
+            "transcription_or_collation_status": "已按文件核录",
+            "version_note": "六项节选",
+            "version_or_title": "第九章 泰兴《何氏家乘》（世家堂）",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "何济《何氏家范条件十则》",
+    "text_scope": "六项节选",
+    "text_units": [
+      {
+        "annotation": null,
+        "original_text": "父母之恩，如天高地厚，最难图报。吾族为子者，只是尽其心力所当为，如饮食衣服之类，虽是孝之疏节，宜极力营办，以奉养父母。纵使家贫，当以色养，不可便生怨怼。冬温夏清，昏定晨省，礼不可缺。不幸父母有过，必下气怡色，柔声以谏，委曲婉转，以待其听。或遇疾病，必奉侍汤药，不离左右。然孝心易衰，于妻子必须朝夕省谕，教以事舅姑之礼，方是一家孝顺，此为子者不可不知。",
+        "record_id": "JX-SZ-001",
+        "revision_or_creation_time": null,
+        "section_title": "孝父母",
+        "sequence_no": 1,
+        "text_scope": "节选",
+        "text_unit_id": "TU-007",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": "含历史性别观念",
+        "original_text": "兄弟乃父之所爱，最要相好，每因妇人言致相离间。吾族为弟兄者，须同居共爨，相爱相友。或不得已而至于析居，亦宜有无相济、疾病相扶、患难相恤，方是能体父母之心。切不可轻听妇言，因丝毫小利、亩角田地，便生忿怒，甚至斗殴构讼，骨肉相残，大失同胞之义。",
+        "record_id": "JX-SZ-001",
+        "revision_or_creation_time": null,
+        "section_title": "友兄弟",
+        "sequence_no": 2,
+        "text_scope": "节选",
+        "text_unit_id": "TU-008",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": "含历史性别分工限制",
+        "original_text": "夫义妇从，礼所定制。吾族为夫者，须正纲纪，慎威仪，为一家之则。令其妇主中馈，奉舅姑，勤纺织，不得假权于妇人。女子不得放纵，往来人家，游戏道路，致滋物议。至于娶妾，为无子亦当正名分，以安其心，不得以色之盛衰为爱憎。",
+        "record_id": "JX-SZ-001",
+        "revision_or_creation_time": null,
+        "section_title": "谨夫妇",
+        "sequence_no": 3,
+        "text_scope": "节选",
+        "text_unit_id": "TU-009",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "人家世世积善，可保子孙蕃衍，福泽灵长。作善降祥，天道然也。吾族人须体此意，毋以尊凌卑，毋以强凌弱，毋以众暴寡。无论宗党姻友，当以厚道自处，即乡里，必须和睦。若倚门户欺压贫寒，恃豪横凌轹柔懦，放六畜作践人田苗，拖钱粮负陷人赔纳，并占人疆界，吞人产业，谋人子女，此皆心术不端，最伤天理，贻害子孙，切不可为。",
+        "record_id": "JX-SZ-001",
+        "revision_or_creation_time": null,
+        "section_title": "敦善行",
+        "sequence_no": 4,
+        "text_scope": "节选",
+        "text_unit_id": "TU-010",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "人家子弟以读书为先，而读书以勤苦为本。吾族为父兄者，须延师取友，教子弟以诗书，令其晓通文义，不令放纵偷安。上可以立身扬名，次可以登科入仕，下亦可以支持门户。若不教读书，惟营末利，甚至子弟目不知书，纵富必为愚痴顽蠢之夫，贫则甘为人下而不辞矣。戒之！戒之！",
+        "record_id": "JX-SZ-001",
+        "revision_or_creation_time": null,
+        "section_title": "训读书",
+        "sequence_no": 5,
+        "text_scope": "节选",
+        "text_unit_id": "TU-011",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "人情由俭入奢易，由奢入俭难。人能节俭，则必勤劳，劳则逸欲之心不生，而可以保身持家；若不节俭，必至于侈衣食，崇宫室，好珍宝奇怪之物，习狎小人，嫖饮赌博，鲜有不至于破家荡产者。凡我子孙务习勤劳，服食居处，崇尚俭朴，一应奢侈嫖赌之事切不可为。",
+        "record_id": "JX-SZ-001",
+        "revision_or_creation_time": null,
+        "section_title": "崇节俭",
+        "sequence_no": 6,
+        "text_scope": "节选",
+        "text_unit_id": "TU-012",
+        "unit_type": "正文",
+        "variant_note": null
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "人与社区、乡里、社会及自然万物的关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-001",
+        "theme_name": "人与附近"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "亲子、兄弟、夫妇及家族关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-003",
+        "theme_name": "人与家庭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "鼓励学习与读书",
+        "level": "二级",
+        "parent_name": "人与学习",
+        "parent_theme_id": "TH-004",
+        "status": "启用",
+        "theme_id": "TH-005",
+        "theme_name": "劝学"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "奉养和尊敬父母长辈",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-010",
+        "theme_name": "孝亲"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "与乡里邻人和睦相处",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-011",
+        "theme_name": "睦邻"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "节制消费与勤劳持家",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-012",
+        "theme_name": "节俭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "历史性别分工与限制",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-013",
+        "theme_name": "性别规范"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "A"
+  },
+  "JX-SZ-002": {
+    "carrier_type": "姜堰《李氏宗谱》（青莲堂）",
+    "created_at": "2026-09-06",
+    "document_type": "家训",
+    "entry_note": "性别分工内容须保留历史限制说明。",
+    "era": "清代",
+    "family_id": "F-002",
+    "family_name": "姜堰李氏",
+    "jiangsu_relation_summary": "泰州姜堰溱潼李氏家族文本。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": null,
+        "era": "清代",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "光绪庚寅署款",
+        "person_id": "P-005",
+        "relation_note": null,
+        "role": "作者或书写者",
+        "standard_name": "李贞发"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": "姜堰区",
+        "evidence_note": "姜堰溱潼李氏",
+        "historical_name": "姜堰溱潼",
+        "modern_name": "江苏省泰州市姜堰区溱潼镇",
+        "note": null,
+        "place_id": "PL-004",
+        "prefecture_city": "泰州市",
+        "province": "江苏省",
+        "relation_type": "文本书写地或家族承传地",
+        "time_note": "1890",
+        "township_street": "溱潼镇"
+      }
+    ],
+    "primary_person_id": "P-005",
+    "primary_person_name": "李贞发",
+    "record_id": "JX-SZ-002",
+    "record_status": "正式入库",
+    "region": "苏中",
+    "short_title": "李氏家训",
+    "sources": [
+      {
+        "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+        "locator": "原书116—118页 PDF第4页",
+        "note": "手书影像116—117页，释文118页，背景120页",
+        "pdf_page": "4",
+        "print_page": "116—120",
+        "publication_or_publisher": null,
+        "publication_year": null,
+        "source_id": "S-005",
+        "source_purpose": "主要核录来源",
+        "source_title": "第八章 姜堰《李氏宗谱》（青莲堂）",
+        "source_type": "官方PDF",
+        "source_verification_level": "A",
+        "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/f2f6cad4469145679a1eab5e12c761af.pdf",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": "4",
+            "print_page": "116—120",
+            "publication_year": null,
+            "responsible_entity": "泰州市党史方志办公室（泰州市档案馆）",
+            "source_id": "S-005",
+            "source_version_id": "SV-005",
+            "transcription_or_collation_status": "已按文件核录",
+            "version_note": "手书影像116—117页，释文118页，背景120页",
+            "version_or_title": "第八章 姜堰《李氏宗谱》（青莲堂）",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "李贞发《李氏家训》",
+    "text_scope": "八十字全文",
+    "text_units": [
+      {
+        "annotation": "“女红针黹，娴淑贤良”反映历史性别分工",
+        "original_text": "爱我中华，兴我家邦。少小勤学，车胤孙康。弦歌雅乐，翰墨传香。尊师益友，孝德永彰。和亲睦邻，扶幼尊长。敬德修业，发愤图强。女红针黹，娴淑贤良。诗书共读，兰桂齐芳。扶贫济困，造福一方。克勤克俭，家道隆昌。",
+        "record_id": "JX-SZ-002",
+        "revision_or_creation_time": "1890",
+        "section_title": "家训正文",
+        "sequence_no": 1,
+        "text_scope": "全文",
+        "text_unit_id": "TU-013",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "光绪庚寅春壬月李贞发书",
+        "record_id": "JX-SZ-002",
+        "revision_or_creation_time": "1890",
+        "section_title": "署款",
+        "sequence_no": 2,
+        "text_scope": "全文",
+        "text_unit_id": "TU-014",
+        "unit_type": "署款",
+        "variant_note": null
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "人与社区、乡里、社会及自然万物的关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-001",
+        "theme_name": "人与附近"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "修身、自省、处世与个人行为",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-002",
+        "theme_name": "人与自己"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "亲子、兄弟、夫妇及家族关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-003",
+        "theme_name": "人与家庭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "鼓励学习与读书",
+        "level": "二级",
+        "parent_name": "人与学习",
+        "parent_theme_id": "TH-004",
+        "status": "启用",
+        "theme_id": "TH-005",
+        "theme_name": "劝学"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "与乡里邻人和睦相处",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-011",
+        "theme_name": "睦邻"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "节制消费与勤劳持家",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-012",
+        "theme_name": "节俭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "历史性别分工与限制",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-013",
+        "theme_name": "性别规范"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "救济贫困与急难",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-014",
+        "theme_name": "济困"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "A"
+  },
+  "JX-SZ-003": {
+    "carrier_type": "家谱与当代展示",
+    "created_at": "2026-09-06",
+    "document_type": "家规",
+    "entry_note": "原谱影像、准确卷叶及逐字原文待补，original_text保持空值。",
+    "era": "明代",
+    "family_id": "F-003",
+    "family_name": "何园何氏",
+    "jiangsu_relation_summary": "扬州何园何氏支系接受、承传与当代展示；原作者并非江苏人。",
+    "original_text_status": "待补",
+    "persons": [
+      {
+        "alternative_name": null,
+        "era": "明代",
+        "historical_native_place": "浙江",
+        "modern_corresponding_place": null,
+        "note": "《何氏家规》原作者",
+        "person_id": "P-006",
+        "relation_note": "原作者并非江苏人",
+        "role": "原作者",
+        "standard_name": "何伦"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "何园展示",
+        "historical_name": "扬州何园",
+        "modern_name": "江苏省扬州市何园",
+        "note": "承传及展示地",
+        "place_id": "PL-005",
+        "prefecture_city": "扬州市",
+        "province": "江苏省",
+        "relation_type": "实物保存或展示地",
+        "time_note": "当代",
+        "township_street": null
+      },
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "扬州何园一脉奉行",
+        "historical_name": "扬州何园",
+        "modern_name": "江苏省扬州市何园",
+        "note": "承传及展示地",
+        "place_id": "PL-005",
+        "prefecture_city": "扬州市",
+        "province": "江苏省",
+        "relation_type": "家族承传地",
+        "time_note": null,
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-006",
+    "primary_person_name": "何伦",
+    "record_id": "JX-SZ-003",
+    "record_status": "正式入库",
+    "region": "苏中",
+    "short_title": "何氏家规十一则",
+    "sources": [
+      {
+        "author_or_institution": "中央纪委国家监委",
+        "locator": "无页码",
+        "note": "2016-04-18发布",
+        "pdf_page": null,
+        "print_page": null,
+        "publication_or_publisher": null,
+        "publication_year": "2016",
+        "source_id": "S-006",
+        "source_purpose": "传承关系来源",
+        "source_title": "江苏扬州何园 祖孙翰林 兄弟博士 父女画家 姐弟院士 晚清第一园人才辈出",
+        "source_type": "官方专题",
+        "source_verification_level": "C",
+        "url": "https://www.ccdi.gov.cn/yaowen/201604/t20160418_141360.html",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": null,
+            "print_page": null,
+            "publication_year": "2016",
+            "responsible_entity": "中央纪委国家监委",
+            "source_id": "S-006",
+            "source_version_id": "SV-006",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "2016-04-18发布",
+            "version_or_title": "江苏扬州何园 祖孙翰林 兄弟博士 父女画家 姐弟院士 晚清第一园人才辈出",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "何园承传何伦《何氏家规》",
+    "text_scope": "元数据待补",
+    "text_units": [],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "人与社区、乡里、社会及自然万物的关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-001",
+        "theme_name": "人与附近"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "亲子、兄弟、夫妇及家族关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-003",
+        "theme_name": "人与家庭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "奉养和尊敬父母长辈",
+        "level": "二级",
+        "parent_name": "人与家庭",
+        "parent_theme_id": "TH-003",
+        "status": "启用",
+        "theme_id": "TH-010",
+        "theme_name": "孝亲"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "节制消费与勤劳持家",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-012",
+        "theme_name": "节俭"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "C"
+  },
+  "JX-SZ-004": {
+    "carrier_type": "石屏或碑刻",
+    "created_at": "2026-09-06",
+    "document_type": "家诫",
+    "entry_note": "“积财千万，无过读书”为官方引语线索，未与碑拓逐字对勘，不进入原文字段。",
+    "era": "民国",
+    "family_id": "F-004",
+    "family_name": "南通张氏",
+    "jiangsu_relation_summary": "南通张謇家族；碑刻、承传及纪念馆展陈。",
+    "original_text_status": "待补",
+    "persons": [
+      {
+        "alternative_name": null,
+        "era": "西汉",
+        "historical_native_place": "彭城",
+        "modern_corresponding_place": "今徐州",
+        "note": "作者",
+        "person_id": "P-002",
+        "relation_note": "七位原语作者之一",
+        "role": "原语作者",
+        "standard_name": "刘向"
+      },
+      {
+        "alternative_name": null,
+        "era": "三国",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "张謇《家诫》所选原语作者之一",
+        "person_id": "P-008",
+        "relation_note": null,
+        "role": "原语作者",
+        "standard_name": "诸葛亮"
+      },
+      {
+        "alternative_name": null,
+        "era": "三国",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "张謇《家诫》所选原语作者之一",
+        "person_id": "P-009",
+        "relation_note": null,
+        "role": "原语作者",
+        "standard_name": "王修"
+      },
+      {
+        "alternative_name": null,
+        "era": "南北朝",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "张謇《家诫》所选原语作者之一",
+        "person_id": "P-010",
+        "relation_note": null,
+        "role": "原语作者",
+        "standard_name": "颜之推"
+      },
+      {
+        "alternative_name": null,
+        "era": "唐代",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "张謇《家诫》所选原语作者之一",
+        "person_id": "P-011",
+        "relation_note": null,
+        "role": "原语作者",
+        "standard_name": "柳玭"
+      },
+      {
+        "alternative_name": null,
+        "era": "宋代",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "张謇《家诫》所选原语作者之一",
+        "person_id": "P-012",
+        "relation_note": null,
+        "role": "原语作者",
+        "standard_name": "胡安国"
+      },
+      {
+        "alternative_name": null,
+        "era": "南宋",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "张謇《家诫》所选原语作者之一",
+        "person_id": "P-013",
+        "relation_note": null,
+        "role": "原语作者",
+        "standard_name": "朱熹"
+      },
+      {
+        "alternative_name": null,
+        "era": "民国",
+        "historical_native_place": "南通",
+        "modern_corresponding_place": "南通",
+        "note": "编选者、序言作者及书写者",
+        "person_id": "P-007",
+        "relation_note": "序言作者",
+        "role": "编选者或书写者",
+        "standard_name": "张謇"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "纪念馆展陈",
+        "historical_name": "张謇纪念馆",
+        "modern_name": "江苏省南通市相关纪念馆",
+        "note": "现有展陈地点，具体馆址待补",
+        "place_id": "PL-008",
+        "prefecture_city": "南通市",
+        "province": "江苏省",
+        "relation_type": "实物保存或展示地",
+        "time_note": "当代",
+        "township_street": null
+      },
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "碑原置家庙东奥山庄倚锦楼前",
+        "historical_name": "东奥山庄倚锦楼前",
+        "modern_name": "江苏省南通市相关旧址",
+        "note": "家诫碑原置地，具体地址待补",
+        "place_id": "PL-007",
+        "prefecture_city": "南通市",
+        "province": "江苏省",
+        "relation_type": "碑刻所在地",
+        "time_note": "1921",
+        "township_street": null
+      },
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "张謇家族地域",
+        "historical_name": "南通",
+        "modern_name": "江苏省南通市",
+        "note": "张謇家族地域",
+        "place_id": "PL-006",
+        "prefecture_city": "南通市",
+        "province": "江苏省",
+        "relation_type": "编选或书写地",
+        "time_note": "1921",
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-007",
+    "primary_person_name": "张謇",
+    "record_id": "JX-SZ-004",
+    "record_status": "正式入库",
+    "region": "苏中",
+    "short_title": "家诫",
+    "sources": [
+      {
+        "author_or_institution": "南通大学南通廉政研究中心",
+        "locator": "无页码",
+        "note": "2015-07-29发布",
+        "pdf_page": null,
+        "print_page": null,
+        "publication_or_publisher": null,
+        "publication_year": "2015",
+        "source_id": "S-007",
+        "source_purpose": "元数据与引语线索来源",
+        "source_title": "张謇《家诫》",
+        "source_type": "高校网站",
+        "source_verification_level": "C",
+        "url": "https://lzwh.ntu.edu.cn/2015/0729/c516a29730/page.htm",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": null,
+            "print_page": null,
+            "publication_year": "2015",
+            "responsible_entity": "南通大学南通廉政研究中心",
+            "source_id": "S-007",
+            "source_version_id": "SV-007",
+            "transcription_or_collation_status": "作为参照或元数据来源",
+            "version_note": "2015-07-29发布",
+            "version_or_title": "张謇《家诫》",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "张謇《家诫》",
+    "text_scope": "元数据＋单句线索",
+    "text_units": [],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "修身、自省、处世与个人行为",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-002",
+        "theme_name": "人与自己"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "鼓励学习与读书",
+        "level": "二级",
+        "parent_name": "人与学习",
+        "parent_theme_id": "TH-004",
+        "status": "启用",
+        "theme_id": "TH-005",
+        "theme_name": "劝学"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "显达时保持谨慎",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-008",
+        "theme_name": "得志戒骄"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "C"
+  },
+  "JX-SZ-005": {
+    "carrier_type": "官方电子汇编",
+    "created_at": "2026-09-06",
+    "document_type": "家书或教子书",
+    "entry_note": "生僻词释义另入注释字段，不混入原文。",
+    "era": "清代",
+    "family_id": null,
+    "family_name": null,
+    "jiangsu_relation_summary": "郑燮为江苏兴化人，晚年寄寓扬州。",
+    "original_text_status": "已录入",
+    "persons": [
+      {
+        "alternative_name": "郑板桥",
+        "era": "清代",
+        "historical_native_place": "兴化",
+        "modern_corresponding_place": "江苏兴化",
+        "note": "作者，晚年寄寓扬州",
+        "person_id": "P-016",
+        "relation_note": null,
+        "role": "作者",
+        "standard_name": "郑燮"
+      },
+      {
+        "alternative_name": null,
+        "era": "清代",
+        "historical_native_place": null,
+        "modern_corresponding_place": null,
+        "note": "郑燮堂弟，书信受信人",
+        "person_id": "P-017",
+        "relation_note": "堂弟郑墨",
+        "role": "受信对象",
+        "standard_name": "郑墨"
+      }
+    ],
+    "places": [
+      {
+        "coordinates": null,
+        "county_district": "兴化市",
+        "evidence_note": "郑燮为江苏兴化人",
+        "historical_name": "兴化",
+        "modern_name": "江苏省泰州市兴化市",
+        "note": "郑燮籍贯",
+        "place_id": "PL-013",
+        "prefecture_city": "泰州市",
+        "province": "江苏省",
+        "relation_type": "作者籍贯",
+        "time_note": null,
+        "township_street": null
+      },
+      {
+        "coordinates": null,
+        "county_district": null,
+        "evidence_note": "郑燮晚年寄寓扬州",
+        "historical_name": "扬州",
+        "modern_name": "江苏省扬州市",
+        "note": "郑燮长期生活地",
+        "place_id": "PL-014",
+        "prefecture_city": "扬州市",
+        "province": "江苏省",
+        "relation_type": "长期生活地",
+        "time_note": "晚年",
+        "township_street": null
+      }
+    ],
+    "primary_person_id": "P-016",
+    "primary_person_name": "郑燮",
+    "record_id": "JX-SZ-005",
+    "record_status": "正式入库",
+    "region": "苏中",
+    "short_title": "潍县署中与舍弟墨第二书",
+    "sources": [
+      {
+        "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+        "locator": "原书501页 PDF第3页",
+        "note": "所录篇章为第二书",
+        "pdf_page": "3",
+        "print_page": "501",
+        "publication_or_publisher": "家风家训电子资料",
+        "publication_year": null,
+        "source_id": "S-011",
+        "source_purpose": "主要核录来源",
+        "source_title": "郑板桥家书（两则）",
+        "source_type": "官方PDF",
+        "source_verification_level": "A",
+        "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/2e35548fce9043d09ecf216b8cce7042.pdf",
+        "verified_at": "2026-09-06",
+        "versions": [
+          {
+            "image_status": "可访问",
+            "pdf_page": "3",
+            "print_page": "501",
+            "publication_year": null,
+            "responsible_entity": "泰州市党史方志办公室（泰州市档案馆）",
+            "source_id": "S-011",
+            "source_version_id": "SV-011",
+            "transcription_or_collation_status": "已按文件核录",
+            "version_note": "所录篇章为第二书",
+            "version_or_title": "郑板桥家书（两则）",
+            "volume_section": null
+          }
+        ],
+        "volume_section": null
+      }
+    ],
+    "standard_title": "郑燮《潍县署中与舍弟墨第二书》",
+    "text_scope": "全文",
+    "text_units": [
+      {
+        "annotation": null,
+        "original_text": "余五十二岁始得一子，岂有不爱之理！然爱之必以其道，虽嬉戏顽耍，务令忠厚悱恻，毋为刻急也。平生最不喜笼中养鸟，我图娱悦，彼在囚牢，何情何理，而必屈物之性以适吾性乎！至于发系蜻蜓，线缚螃蟹，为小儿玩具，不顾一时片刻便折拉而死。夫天地生物，化育劬劳，一蚁一虫，皆本阴阳五行之气氤氲而出。上帝亦心心爱念，而万物之性人为贵，吾辈竟不能体天之心以为心，万物将何所托命乎？蛇蚖、蜈蚣、豺狼、虎豹，虫之最毒者也，然天既生之，我何得而杀之？若必欲尽杀，天地又何必生？亦唯驱之使远，避之使不相害而已。蜘蛛结网，于人何罪？或谓其夜间咒月，令人墙倾壁倒，遂击杀无遗。此等说话，出于何经何典，而遂以此残物之命，可乎哉？可乎哉？",
+        "record_id": "JX-SZ-005",
+        "revision_or_creation_time": null,
+        "section_title": "第一段",
+        "sequence_no": 1,
+        "text_scope": "全文",
+        "text_unit_id": "TU-026",
+        "unit_type": "正文",
+        "variant_note": null
+      },
+      {
+        "annotation": null,
+        "original_text": "我不在家，儿子便是你管束。要须长其忠厚之情，驱其残忍之性，不得以为犹子而姑纵惜也。家人儿女，总是天地间一般人，当一般爱惜，不可使吾儿凌虐他。凡鱼飧果饼，宜均分散给，大家欢嬉跳跃。若吾儿坐食好物，令家人子远立而望，不得一沾唇齿，其父母见而怜之，无可如何，呼之使去，岂非割心剜肉乎！夫读书中举中进士作官，此是小事，第一要明理作个好人。可将此书读给郭嫂、饶嫂听，使二妇人知爱子之道在此不在彼也。",
+        "record_id": "JX-SZ-005",
+        "revision_or_creation_time": null,
+        "section_title": "第二段",
+        "sequence_no": 2,
+        "text_scope": "全文",
+        "text_unit_id": "TU-027",
+        "unit_type": "正文",
+        "variant_note": null
+      }
+    ],
+    "themes": [
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "亲子、兄弟、夫妇及家族关系",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-003",
+        "theme_name": "人与家庭"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书、教育、求知与人才培养",
+        "level": "一级",
+        "parent_name": null,
+        "parent_theme_id": null,
+        "status": "启用",
+        "theme_id": "TH-004",
+        "theme_name": "人与学习"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "尊重动物与生命",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-019",
+        "theme_name": "爱护生命"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "培养忠厚仁恕品格",
+        "level": "二级",
+        "parent_name": "人与自己",
+        "parent_theme_id": "TH-002",
+        "status": "启用",
+        "theme_id": "TH-020",
+        "theme_name": "忠厚"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "平等对待家人子女及他人",
+        "level": "二级",
+        "parent_name": "人与附近",
+        "parent_theme_id": "TH-001",
+        "status": "启用",
+        "theme_id": "TH-021",
+        "theme_name": "平等待人"
+      },
+      {
+        "classification_basis": "文件明确标注或依据核录段落归类",
+        "definition": "读书目的在于明理做人",
+        "level": "二级",
+        "parent_name": "人与学习",
+        "parent_theme_id": "TH-004",
+        "status": "启用",
+        "theme_id": "TH-022",
+        "theme_name": "读书明理"
+      }
+    ],
+    "updated_at": "2026-09-06",
+    "verification_level": "A"
+  }
+}

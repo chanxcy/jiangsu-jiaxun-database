@@ -1,0 +1,57 @@
+[
+  {
+    "current_issue": "未取得原谱影像、卷叶与可靠页码；所谓第三条可能存在后期改写。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-001",
+    "lead_title": "丰县陈氏《族规》",
+    "note": "不得录入原文库或参与内容频次统计",
+    "person_or_family": "陈氏",
+    "place_name": "丰县",
+    "recommended_action": "查《江苏家训史》纸本引注，并向谱藏机构核原谱。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-002",
+    "lead_title": "松陵陆氏材料",
+    "note": null,
+    "person_or_family": "陆氏",
+    "place_name": "松陵",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-003",
+    "lead_title": "三沙王氏材料",
+    "note": null,
+    "person_or_family": "王氏",
+    "place_name": "三沙",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-004",
+    "lead_title": "昆陵李氏材料",
+    "note": null,
+    "person_or_family": "李氏",
+    "place_name": "昆陵",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-005",
+    "lead_title": "洞庭东山万氏材料",
+    "note": null,
+    "person_or_family": "万氏",
+    "place_name": "洞庭东山",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  }
+]

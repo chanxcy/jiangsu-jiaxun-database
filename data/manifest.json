@@ -1,0 +1,30 @@
+{
+  "counts": {
+    "families": 5,
+    "leads": 5,
+    "level_A": 4,
+    "level_B": 3,
+    "level_C": 2,
+    "persons": 17,
+    "places": 14,
+    "records": 9,
+    "sources": 11,
+    "text_units": 27,
+    "themes": 22
+  },
+  "dataset": "江苏家训数据库公开静态版",
+  "encoding": "UTF-8",
+  "files": [
+    "summary.json",
+    "records.json",
+    "record_details.json",
+    "persons.json",
+    "families.json",
+    "places.json",
+    "themes.json",
+    "sources.json",
+    "leads.json",
+    "search_index.json"
+  ],
+  "runtime": "static"
+}

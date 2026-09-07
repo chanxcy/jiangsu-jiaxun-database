@@ -1,0 +1,289 @@
+[
+  {
+    "coordinates": null,
+    "county_district": "丰县",
+    "historical_name": "沛丰邑中阳里",
+    "modern_name": "江苏省徐州市丰县",
+    "note": "古今地名对应需保留证据",
+    "place_id": "PL-001",
+    "prefecture_city": "徐州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-001",
+        "relation_note": "刘邦为沛丰邑中阳里人",
+        "relation_type": "作者出生地或人物地域关系",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "彭城",
+    "modern_name": "江苏省徐州市",
+    "note": "西汉人物地域关系",
+    "place_id": "PL-002",
+    "prefecture_city": "徐州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-002",
+        "relation_note": "刘向为西汉彭城人",
+        "relation_type": "作者籍贯",
+        "standard_title": "刘向《诫子歆书》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": "泰兴市",
+    "historical_name": "泰兴黄桥",
+    "modern_name": "江苏省泰州市泰兴市黄桥镇",
+    "note": null,
+    "place_id": "PL-003",
+    "prefecture_city": "泰州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-001",
+        "relation_note": "泰州泰兴黄桥何氏",
+        "relation_type": "家族形成与承传地",
+        "standard_title": "何济《何氏家范条件十则》"
+      }
+    ],
+    "township_street": "黄桥镇"
+  },
+  {
+    "coordinates": null,
+    "county_district": "姜堰区",
+    "historical_name": "姜堰溱潼",
+    "modern_name": "江苏省泰州市姜堰区溱潼镇",
+    "note": null,
+    "place_id": "PL-004",
+    "prefecture_city": "泰州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-002",
+        "relation_note": "姜堰溱潼李氏",
+        "relation_type": "文本书写地或家族承传地",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "township_street": "溱潼镇"
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "扬州何园",
+    "modern_name": "江苏省扬州市何园",
+    "note": "承传及展示地",
+    "place_id": "PL-005",
+    "prefecture_city": "扬州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "relation_note": "扬州何园一脉奉行",
+        "relation_type": "家族承传地",
+        "standard_title": "何园承传何伦《何氏家规》"
+      },
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "relation_note": "何园展示",
+        "relation_type": "实物保存或展示地",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "南通",
+    "modern_name": "江苏省南通市",
+    "note": "张謇家族地域",
+    "place_id": "PL-006",
+    "prefecture_city": "南通市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "张謇家族地域",
+        "relation_type": "编选或书写地",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "东奥山庄倚锦楼前",
+    "modern_name": "江苏省南通市相关旧址",
+    "note": "家诫碑原置地，具体地址待补",
+    "place_id": "PL-007",
+    "prefecture_city": "南通市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "碑原置家庙东奥山庄倚锦楼前",
+        "relation_type": "碑刻所在地",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "张謇纪念馆",
+    "modern_name": "江苏省南通市相关纪念馆",
+    "note": "现有展陈地点，具体馆址待补",
+    "place_id": "PL-008",
+    "prefecture_city": "南通市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "纪念馆展陈",
+        "relation_type": "实物保存或展示地",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "吴县",
+    "modern_name": "江苏省苏州市相关区域",
+    "note": "范仲淹置义田地",
+    "place_id": "PL-009",
+    "prefecture_city": "苏州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "置义田",
+        "relation_type": "制度形成地或义庄实施地",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "长洲县",
+    "modern_name": "江苏省苏州市相关区域",
+    "note": "范仲淹置义田地",
+    "place_id": "PL-010",
+    "prefecture_city": "苏州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "置义田",
+        "relation_type": "制度形成地或义庄实施地",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "天平山白云寺先公祠堂之侧",
+    "modern_name": "江苏省苏州市天平山",
+    "note": "规矩刻石地",
+    "place_id": "PL-011",
+    "prefecture_city": "苏州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "规矩后刻石于此",
+        "relation_type": "碑刻所在地",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": "昆山市",
+    "historical_name": "昆山",
+    "modern_name": "江苏省苏州市昆山市",
+    "note": "朱用纯籍贯",
+    "place_id": "PL-012",
+    "prefecture_city": "苏州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "明末清初",
+        "record_id": "JX-SN-002",
+        "relation_note": "朱用纯为昆山人",
+        "relation_type": "作者籍贯",
+        "standard_title": "朱用纯《治家格言》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": "兴化市",
+    "historical_name": "兴化",
+    "modern_name": "江苏省泰州市兴化市",
+    "note": "郑燮籍贯",
+    "place_id": "PL-013",
+    "prefecture_city": "泰州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-005",
+        "relation_note": "郑燮为江苏兴化人",
+        "relation_type": "作者籍贯",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "township_street": null
+  },
+  {
+    "coordinates": null,
+    "county_district": null,
+    "historical_name": "扬州",
+    "modern_name": "江苏省扬州市",
+    "note": "郑燮长期生活地",
+    "place_id": "PL-014",
+    "prefecture_city": "扬州市",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-005",
+        "relation_note": "郑燮晚年寄寓扬州",
+        "relation_type": "长期生活地",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "township_street": null
+  }
+]
