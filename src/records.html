@@ -1,1 +1,111 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>家训记录｜江苏家训数据库</title><link rel="stylesheet" href="css/styles.css"></head><body data-page="records"><header><div class="wrap"><a class="brand" href="index.html">江苏家训数据库</a><button class="nav-toggle" aria-label="打开导航" aria-expanded="false">☰</button><nav><a href="records.html">家训记录</a><a href="persons.html">人物</a><a href="families.html">家族</a><a href="places.html">地点</a><a href="themes.html">主题</a><a href="sources.html">来源</a><a href="leads.html">待查线索</a></nav></div></header><main class="wrap"><div class="page-head"><div><p class="eyebrow">RECORDS</p><h1>家训记录</h1></div><span id="count"></span></div><form id="filters" class="controls"><label class="wide">关键词<input name="q" placeholder="题名、记录ID、人物、原文……"></label><label>地域分区<select name="region"><option value="">全部</option></select></label><label>时代<select name="era"><option value="">全部</option></select></label><label>核验等级<select name="level"><option value="">全部</option></select></label><label>文本范围<select name="scope"><option value="">全部</option></select></label><label>主题<select name="theme"><option value="">全部</option></select></label><label>人物<input name="person"></label><label>家族<input name="family"></label><label>地点<input name="place"></label><label>排序<select name="sort"><option value="record_id">记录ID</option><option value="standard_title">标准题名</option><option value="era">时代</option><option value="region">地域</option><option value="verification_level">核验等级</option></select></label><div class="actions"><button>应用筛选</button><button type="button" id="clear" class="secondary">清除筛选</button></div></form><div class="table-wrap"><table><thead><tr><th>ID</th><th>标准题名</th><th>时代</th><th>地域</th><th>主要人物</th><th>家族</th><th>文献类型</th><th>载体</th><th>文本范围</th><th>核验</th><th>原文状态</th></tr></thead><tbody></tbody></table></div><div id="pager" class="pager"></div></main><footer><div class="wrap">公开只读数据库</div></footer><script src="js/app.js"></script><script src="js/search.js"></script><script src="js/filters.js"></script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>家训记录｜江苏家训数据库</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="records">
+<header>
+<div class="wrap">
+<a class="brand" href="index.html">江苏家训数据库</a>
+<button class="nav-toggle" aria-label="打开导航" aria-expanded="false">☰</button>
+<nav>
+<a href="records.html">家训记录</a>
+<a href="map.html">家训地图</a>
+<a href="persons.html">人物</a>
+<a href="families.html">家族</a>
+<a href="places.html">地点</a>
+<a href="themes.html">主题</a>
+<a href="sources.html">来源</a>
+<a href="leads.html">待查线索</a>
+</nav>
+</div>
+</header>
+<main class="wrap">
+<div class="page-head">
+<div>
+<p class="eyebrow">RECORDS</p>
+<h1>家训记录</h1>
+</div>
+<span id="count">
+</span>
+</div>
+<form id="filters" class="controls">
+<label class="wide">关键词<input name="q" placeholder="题名、记录ID、人物、原文……">
+</label>
+<label>地域分区<select name="region">
+<option value="">全部</option>
+</select>
+</label>
+<label>时代<select name="era">
+<option value="">全部</option>
+</select>
+</label>
+<label>核验等级<select name="level">
+<option value="">全部</option>
+</select>
+</label>
+<label>文本范围<select name="scope">
+<option value="">全部</option>
+</select>
+</label>
+<label>主题<select name="theme">
+<option value="">全部</option>
+</select>
+</label>
+<label>人物<input name="person">
+</label>
+<label>家族<input name="family">
+</label>
+<label>地点<input name="place">
+</label>
+<label>排序<select name="sort">
+<option value="record_id">记录ID</option>
+<option value="standard_title">标准题名</option>
+<option value="era">时代</option>
+<option value="region">地域</option>
+<option value="verification_level">核验等级</option>
+</select>
+</label>
+<div class="actions">
+<button>应用筛选</button>
+<button type="button" id="clear" class="secondary">清除筛选</button>
+</div>
+</form>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>标准题名</th>
+<th>时代</th>
+<th>地域</th>
+<th>主要人物</th>
+<th>家族</th>
+<th>文献类型</th>
+<th>载体</th>
+<th>文本范围</th>
+<th>核验</th>
+<th>原文状态</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+<div id="pager" class="pager">
+</div>
+</main>
+<footer>
+<div class="wrap">江苏家训文献数据库·古训新问</div>
+</footer>
+<script src="js/app.js">
+</script>
+<script src="js/search.js">
+</script>
+<script src="js/filters.js">
+</script>
+</body>
+</html>

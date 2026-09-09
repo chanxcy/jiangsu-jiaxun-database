@@ -177,6 +177,13 @@
     "person_id": "P-010",
     "records": [
       {
+        "era": "南北朝至隋",
+        "record_id": "JX-SN-004",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "颜之推《颜氏家训》"
+      },
+      {
         "era": "民国",
         "record_id": "JX-SZ-004",
         "relation_note": null,
@@ -311,5 +318,228 @@
       }
     ],
     "standard_name": "郑墨"
+  },
+  {
+    "alternative_name": "",
+    "era": "当代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-018",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-001",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "刁华清家庭家训"
+      }
+    ],
+    "standard_name": "刁华清"
+  },
+  {
+    "alternative_name": "",
+    "era": "当代家庭使用",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-019",
+    "records": [
+      {
+        "era": "当代家庭使用",
+        "record_id": "JX-MOD-SB-004",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "夏宝国家庭家训"
+      }
+    ],
+    "standard_name": "夏宝国"
+  },
+  {
+    "alternative_name": "",
+    "era": "明代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-020",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SB-003",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "王艮《孝悌箴》"
+      }
+    ],
+    "standard_name": "王艮"
+  },
+  {
+    "alternative_name": "",
+    "era": "现代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-021",
+    "records": [
+      {
+        "era": "现代",
+        "record_id": "JX-SB-006",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "陈友林致女儿家书"
+      }
+    ],
+    "standard_name": "陈友林"
+  },
+  {
+    "alternative_name": "",
+    "era": "当代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-022",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-002",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "安从强家庭家训"
+      }
+    ],
+    "standard_name": "安从强"
+  },
+  {
+    "alternative_name": "",
+    "era": "当代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-023",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-003",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "姜在艳家庭家训"
+      }
+    ],
+    "standard_name": "姜在艳"
+  },
+  {
+    "alternative_name": "",
+    "era": "成文年代未核",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-024",
+    "records": [
+      {
+        "era": "成文年代未核",
+        "record_id": "JX-SN-017",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "庄恒训子四条 节选"
+      }
+    ],
+    "standard_name": "庄恒"
+  },
+  {
+    "alternative_name": "",
+    "era": "明代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-025",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SN-006",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "庄起元《鹤坡公家训》"
+      }
+    ],
+    "standard_name": "庄起元"
+  },
+  {
+    "alternative_name": "",
+    "era": "元末明初人物",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-026",
+    "records": [
+      {
+        "era": "元末明初人物",
+        "record_id": "JX-SN-005",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      }
+    ],
+    "standard_name": "华贞固"
+  },
+  {
+    "alternative_name": "",
+    "era": "宋代",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-027",
+    "records": [
+      {
+        "era": "宋代",
+        "record_id": "JX-SN-015",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "石林治生家训要略 节选"
+      },
+      {
+        "era": "宋代",
+        "record_id": "JX-SN-016",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "石林家训 力学节选"
+      }
+    ],
+    "standard_name": "叶梦得"
+  },
+  {
+    "alternative_name": "",
+    "era": "清",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-028",
+    "records": [
+      {
+        "era": "清",
+        "record_id": "JX-SN-011",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "彭定求 生圹志 训子节选"
+      }
+    ],
+    "standard_name": "彭定求"
+  },
+  {
+    "alternative_name": "",
+    "era": "时代待核",
+    "historical_native_place": "",
+    "modern_corresponding_place": "",
+    "note": "据本次来源文件建立；身份与年代仍以原典复核为准。",
+    "person_id": "P-029",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-007",
+        "relation_note": "具体角色据来源文件，待原典复核。",
+        "relation_type": "作者或相关人物",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      }
+    ],
+    "standard_name": "柳可荫"
   }
 ]

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="以可追溯坐标浏览江苏家训与历史地名">
+  <title>家训地图｜江苏家训数据库</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="map">
+<a class="skip" href="#main">跳至主要内容</a>
+<header>
+<div class="wrap">
+<a class="brand" href="index.html">江苏家训数据库</a>
+<button class="nav-toggle" aria-label="打开导航" aria-expanded="false">☰</button>
+<nav>
+<a href="records.html">家训记录</a>
+<a href="map.html" aria-current="page">家训地图</a>
+<a href="persons.html">人物</a>
+<a href="families.html">家族</a>
+<a href="places.html">地点</a>
+<a href="themes.html">主题</a>
+<a href="sources.html">来源</a>
+<a href="leads.html">待查线索</a>
+</nav>
+</div>
+</header>
+<main id="main" class="wrap map-page">
+  <div class="page-head">
+<div>
+<p class="eyebrow">JIANGSU FAMILY INSTRUCTIONS MAP</p>
+<h1>江苏家训地图</h1>
+<p>地图只显示经过证据分级的真实地理信息；代表点不等于历史遗址。</p>
+</div>
+</div>
+  <form id="map-filters" class="controls map-controls" aria-label="地图筛选">
+    <label>地级市<select name="city">
+<option value="">全部</option>
+</select>
+</label>
+    <label>时代<select name="era">
+<option value="">全部</option>
+</select>
+</label>
+    <label>家训核验等级<select name="level">
+<option value="">全部</option>
+</select>
+</label>
+    <label>定位精度<select name="precision">
+<option value="">全部</option>
+</select>
+</label>
+    <div class="actions">
+<button type="button" id="map-clear" class="secondary">清除筛选</button>
+</div>
+  </form>
+  <div class="map-layout">
+    <section class="map-panel" aria-labelledby="map-heading">
+      <h2 id="map-heading" class="sr-only">江苏省家训地图</h2>
+      <div id="map-status" class="map-status" role="status">正在载入江苏十三市边界……</div>
+      <svg id="jiaxun-map" class="jiaxun-map" viewBox="0 0 720 760" role="img" aria-labelledby="map-title map-desc">
+        <title id="map-title">江苏家训地图</title>
+        <desc id="map-desc">江苏省十三个设区市的真实行政区边界、市名与已核验家训地点，可使用 Tab 键聚焦地点，按 Enter 或空格键查看详情。</desc>
+        <g id="boundary-layer"></g>
+        <g id="city-label-layer" aria-hidden="true"></g>
+        <g id="marker-layer"></g>
+      </svg>
+      <div class="map-legend" aria-label="江苏地域分组图例"><span><i class="legend-south"></i>苏南</span><span><i class="legend-central"></i>苏中</span><span><i class="legend-north"></i>苏北</span></div>
+      <p class="map-attribution">地图依据：设区市边界来自 <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>（ODbL），陆地外轮廓参考 <a href="https://www.naturalearthdata.com/about/terms-of-use/" target="_blank" rel="noopener">Natural Earth</a>（公有领域）；地点坐标参考 <a href="https://www.amap.com/" target="_blank" rel="noopener">高德地图</a> 及相关政府、文旅机构公开资料。坐标统一为 WGS84。</p>
+    </section>
+    <aside class="map-sidebar" aria-labelledby="place-list-heading">
+      <h2 id="place-list-heading">地点与家训</h2>
+      <div id="place-detail" class="place-detail" aria-live="polite" aria-atomic="true"><p class="sidebar-prompt">将鼠标移到地图点位，或使用键盘聚焦点位，即可在此查看详情。点击点位可固定内容。</p></div>
+    </aside>
+  </div>
+  <section class="method-note">
+<h2>如何理解点位</h2>
+<p>“具体建筑”可对应到现存场所；“景区”、“乡镇”、“区县/市级代表点”只表示证据所允许的现代对应范围。位置待核项目不在图上生成坐标，但保留在侧栏中。</p>
+</section>
+</main>
+<footer>
+<div class="wrap">江苏家训文献数据库·古训新问</div>
+</footer>
+<script src="js/app.js">
+</script>
+<script src="js/map.js">
+</script>
+</body>
+</html>

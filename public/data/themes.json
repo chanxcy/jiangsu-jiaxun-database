@@ -5,6 +5,14 @@
     "parent_theme_id": null,
     "records": [
       {
+        "record_id": "JX-MOD-SB-001",
+        "standard_title": "刁华清家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-004",
+        "standard_title": "夏宝国家庭家训"
+      },
+      {
         "record_id": "JX-SB-001",
         "standard_title": "刘邦《手敕太子文》"
       },
@@ -17,6 +25,22 @@
         "standard_title": "朱用纯《治家格言》"
       },
       {
+        "record_id": "JX-SN-003",
+        "standard_title": "甘氏“友恭”家训"
+      },
+      {
+        "record_id": "JX-SN-005",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      },
+      {
+        "record_id": "JX-SN-007",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
         "record_id": "JX-SZ-001",
         "standard_title": "何济《何氏家范条件十则》"
       },
@@ -27,6 +51,10 @@
       {
         "record_id": "JX-SZ-003",
         "standard_title": "何园承传何伦《何氏家规》"
+      },
+      {
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
       }
     ],
     "status": "启用",
@@ -39,6 +67,14 @@
     "parent_theme_id": null,
     "records": [
       {
+        "record_id": "JX-MOD-SB-001",
+        "standard_title": "刁华清家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-003",
+        "standard_title": "姜在艳家庭家训"
+      },
+      {
         "record_id": "JX-SB-001",
         "standard_title": "刘邦《手敕太子文》"
       },
@@ -47,8 +83,48 @@
         "standard_title": "刘向《诫子歆书》"
       },
       {
+        "record_id": "JX-SB-003",
+        "standard_title": "王艮《孝悌箴》"
+      },
+      {
         "record_id": "JX-SN-002",
         "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-005",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      },
+      {
+        "record_id": "JX-SN-007",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SN-010",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      },
+      {
+        "record_id": "JX-SN-011",
+        "standard_title": "彭定求 生圹志 训子节选"
+      },
+      {
+        "record_id": "JX-SN-012",
+        "standard_title": "莫厘王氏 玉润堂家训"
+      },
+      {
+        "record_id": "JX-SN-015",
+        "standard_title": "石林治生家训要略 节选"
+      },
+      {
+        "record_id": "JX-SN-016",
+        "standard_title": "石林家训 力学节选"
+      },
+      {
+        "record_id": "JX-SN-017",
+        "standard_title": "庄恒训子四条 节选"
       },
       {
         "record_id": "JX-SZ-002",
@@ -57,6 +133,10 @@
       {
         "record_id": "JX-SZ-004",
         "standard_title": "张謇《家诫》"
+      },
+      {
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
       }
     ],
     "status": "启用",
@@ -69,8 +149,56 @@
     "parent_theme_id": null,
     "records": [
       {
+        "record_id": "JX-MOD-SB-002",
+        "standard_title": "安从强家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-003",
+        "standard_title": "姜在艳家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-004",
+        "standard_title": "夏宝国家庭家训"
+      },
+      {
+        "record_id": "JX-SB-003",
+        "standard_title": "王艮《孝悌箴》"
+      },
+      {
+        "record_id": "JX-SB-006",
+        "standard_title": "陈友林致女儿家书"
+      },
+      {
         "record_id": "JX-SN-002",
         "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-003",
+        "standard_title": "甘氏“友恭”家训"
+      },
+      {
+        "record_id": "JX-SN-004",
+        "standard_title": "颜之推《颜氏家训》"
+      },
+      {
+        "record_id": "JX-SN-006",
+        "standard_title": "庄起元《鹤坡公家训》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SN-010",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      },
+      {
+        "record_id": "JX-SN-011",
+        "standard_title": "彭定求 生圹志 训子节选"
+      },
+      {
+        "record_id": "JX-SN-012",
+        "standard_title": "莫厘王氏 玉润堂家训"
       },
       {
         "record_id": "JX-SZ-001",
@@ -87,6 +215,10 @@
       {
         "record_id": "JX-SZ-005",
         "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      },
+      {
+        "record_id": "JX-SZ-006",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
       }
     ],
     "status": "启用",
@@ -99,6 +231,10 @@
     "parent_theme_id": null,
     "records": [
       {
+        "record_id": "JX-MOD-SB-002",
+        "standard_title": "安从强家庭家训"
+      },
+      {
         "record_id": "JX-SB-002",
         "standard_title": "刘向《诫子歆书》"
       },
@@ -109,6 +245,34 @@
       {
         "record_id": "JX-SN-002",
         "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-004",
+        "standard_title": "颜之推《颜氏家训》"
+      },
+      {
+        "record_id": "JX-SN-006",
+        "standard_title": "庄起元《鹤坡公家训》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SN-009",
+        "standard_title": "钱氏家训 无锡承传节选"
+      },
+      {
+        "record_id": "JX-SN-015",
+        "standard_title": "石林治生家训要略 节选"
+      },
+      {
+        "record_id": "JX-SN-016",
+        "standard_title": "石林家训 力学节选"
+      },
+      {
+        "record_id": "JX-SN-017",
+        "standard_title": "庄恒训子四条 节选"
       },
       {
         "record_id": "JX-SZ-001",
@@ -125,6 +289,14 @@
       {
         "record_id": "JX-SZ-005",
         "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      },
+      {
+        "record_id": "JX-SZ-006",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
+      },
+      {
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
       }
     ],
     "status": "启用",

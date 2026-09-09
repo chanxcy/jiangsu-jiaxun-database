@@ -285,5 +285,545 @@
       }
     ],
     "township_street": null
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "宿迁；沭阳县刁夏村相关家庭",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-015",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-001",
+        "relation_note": "宿迁；沭阳县刁夏村相关家庭",
+        "relation_type": "当代家庭使用",
+        "standard_title": "刁华清家庭家训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "淮安；淮安书房宣讲；淮安政协文史另载夏宝国地方文化工作经历",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-016",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "当代家庭使用",
+        "record_id": "JX-MOD-SB-004",
+        "relation_note": "淮安；淮安书房宣讲；淮安政协文史另载夏宝国地方文化工作经历",
+        "relation_type": "当代家庭使用及地方传播",
+        "standard_title": "夏宝国家庭家训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "淮安；淮安阮氏、勺湖草堂相关文史",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-017",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SB-007",
+        "relation_note": "淮安；淮安阮氏、勺湖草堂相关文史",
+        "relation_type": "淮安家族承传",
+        "standard_title": "阮氏笔训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "盐城；东台市安丰镇",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-018",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SB-003",
+        "relation_note": "盐城；东台市安丰镇",
+        "relation_type": "今东台安丰人物与家庭关联，古今行政区划分列",
+        "standard_title": "王艮《孝悌箴》"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "盐城；阜宁",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-019",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "2024年续修本",
+        "record_id": "JX-SB-004",
+        "relation_note": "盐城；阜宁",
+        "relation_type": "报道明确记述迁往阜宁的家族；盐城市档案馆收藏",
+        "standard_title": "《茆氏宗谱》家训栏目"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "盐城；阜宁殷家庄陈氏；盐城市档案馆藏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-020",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "2021年第九次编修",
+        "record_id": "JX-SB-008",
+        "relation_note": "盐城；阜宁殷家庄陈氏；盐城市档案馆藏",
+        "relation_type": "家族承传及公藏",
+        "standard_title": "阜宁陈氏宗谱 家教家风家训专栏"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "连云港；东海县白石岭、黄川、桃林",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-021",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SB-005",
+        "relation_note": "连云港；东海县白石岭、黄川、桃林",
+        "relation_type": "当地展示报道点名家族",
+        "standard_title": "东海三家族承传线索"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "连云港；海州区新海街道西苑社区",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-022",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "现代",
+        "record_id": "JX-SB-006",
+        "relation_note": "连云港；海州区新海街道西苑社区",
+        "relation_type": "报道记载作者居住地点",
+        "standard_title": "陈友林致女儿家书"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "连云港；赣榆区青口镇安庄社区",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-023",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-002",
+        "relation_note": "连云港；赣榆区青口镇安庄社区",
+        "relation_type": "当代家庭公示",
+        "standard_title": "安从强家庭家训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "连云港；赣榆；华中路小学相关家庭",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-024",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-003",
+        "relation_note": "连云港；赣榆；华中路小学相关家庭",
+        "relation_type": "当代地方宣传展示",
+        "standard_title": "姜在艳家庭家训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "泰州；泰兴焦氏；姜堰蒋垛藏版",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-025",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "姜堰蒋垛藏版年代未核",
+        "record_id": "JX-SZ-006",
+        "relation_note": "泰州；泰兴焦氏；姜堰蒋垛藏版",
+        "relation_type": "地方宗谱及地方志部门整理",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "南京；南京颜氏文化承传、颜鲁公祠展示",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-026",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "南北朝至隋",
+        "record_id": "JX-SN-004",
+        "relation_note": "南京；南京颜氏文化承传、颜鲁公祠展示",
+        "relation_type": "文化承传与当代纪念展示；不认定全书成于南京",
+        "standard_title": "颜之推《颜氏家训》"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "南京；甘熙宅第／金陵友恭堂甘氏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-027",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-003",
+        "relation_note": "南京；甘熙宅第／金陵友恭堂甘氏",
+        "relation_type": "家族居住及当代展示，不代表成文地点",
+        "standard_title": "甘氏“友恭”家训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "常州；常州庄氏家族",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-028",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "成文年代未核",
+        "record_id": "JX-SN-017",
+        "relation_note": "常州；常州庄氏家族",
+        "relation_type": "地方家族承传",
+        "standard_title": "庄恒训子四条 节选"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "常州；毗陵庄氏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-029",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SN-006",
+        "relation_note": "常州；毗陵庄氏",
+        "relation_type": "常州庄氏居住及族谱承传",
+        "standard_title": "庄起元《鹤坡公家训》"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "常州；溧阳史氏与史侯祠清廉堂",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-030",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "2018年公开展示可核",
+        "record_id": "JX-TR-SN-001",
+        "relation_note": "常州；溧阳史氏与史侯祠清廉堂",
+        "relation_type": "地方家族及祠堂展示",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "无锡；严家桥；文章称祖籍常州武进",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-031",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "明清至近现代承传",
+        "record_id": "JX-SN-014",
+        "relation_note": "无锡；严家桥；文章称祖籍常州武进",
+        "relation_type": "由武进至无锡的家族迁徙与承传",
+        "standard_title": "严家桥唐氏家训 承传记录"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "无锡；无锡荣氏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-032",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清代语境",
+        "record_id": "JX-SN-008",
+        "relation_note": "无锡；无锡荣氏",
+        "relation_type": "省纪委网站无锡家风专题收录",
+        "standard_title": "荣氏家训十二则"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "无锡；无锡钱钟书故居及钱氏家族",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-033",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "形成层次待核",
+        "record_id": "JX-SN-009",
+        "relation_note": "无锡；无锡钱钟书故居及钱氏家族",
+        "relation_type": "地方家族承传；不据此认定全篇形成于无锡",
+        "standard_title": "钱氏家训 无锡承传节选"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "无锡；荡口",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-034",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "元末明初人物",
+        "record_id": "JX-SN-005",
+        "relation_note": "无锡；荡口",
+        "relation_type": "荡口华氏居住与承传",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "苏州；作者籍贯关联苏州",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-035",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "宋代",
+        "record_id": "JX-SN-016",
+        "relation_note": "苏州；作者籍贯关联苏州",
+        "relation_type": "作者籍贯；成文地未核",
+        "standard_title": "石林家训 力学节选"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "苏州；网页记叶梦得为今江苏苏州人",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-036",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "宋代",
+        "record_id": "JX-SN-015",
+        "relation_note": "苏州；网页记叶梦得为今江苏苏州人",
+        "relation_type": "作者籍贯；不据此认定成文地点",
+        "standard_title": "石林治生家训要略 节选"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "苏州；苏州包山郑氏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-037",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清光绪二十四年刻本",
+        "record_id": "JX-SN-013",
+        "relation_note": "苏州；苏州包山郑氏",
+        "relation_type": "地方族谱记录",
+        "standard_title": "包山郑氏族谱 家训十 安清贫"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "苏州；苏州地方家族语境；具体潘氏支派待核",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-038",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清",
+        "record_id": "JX-SN-010",
+        "relation_note": "苏州；苏州地方家族语境；具体潘氏支派待核",
+        "relation_type": "研究论文对苏州家族的文本分析",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "苏州；莫厘王氏；具体居地待核谱",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-039",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "引文所据谱为民国二十六年石印本",
+        "record_id": "JX-SN-012",
+        "relation_note": "苏州；莫厘王氏；具体居地待核谱",
+        "relation_type": "苏州地方商贾家族文献",
+        "standard_title": "莫厘王氏 玉润堂家训"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "苏州；长洲彭氏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-040",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "清",
+        "record_id": "JX-SN-011",
+        "relation_note": "苏州；长洲彭氏",
+        "relation_type": "苏州家族承传",
+        "standard_title": "彭定求 生圹志 训子节选"
+      }
+    ],
+    "township_street": ""
+  },
+  {
+    "coordinates": "",
+    "county_district": "",
+    "historical_name": "",
+    "modern_name": "镇江；京江柳氏",
+    "note": "来源文件中的地域描述；复杂地点尚待进一步拆分。",
+    "place_id": "PL-041",
+    "prefecture_city": "",
+    "province": "江苏省",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-007",
+        "relation_note": "镇江；京江柳氏",
+        "relation_type": "京江柳氏族谱承传",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      }
+    ],
+    "township_street": ""
   }
 ]

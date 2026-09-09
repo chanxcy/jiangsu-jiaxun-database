@@ -1,13 +1,13 @@
 {
-  "families": 5,
-  "leads": 5,
+  "families": 21,
+  "leads": 9,
   "level_A": 4,
-  "level_B": 3,
-  "level_C": 2,
-  "persons": 17,
-  "places": 14,
-  "records": 9,
-  "sources": 11,
-  "text_units": 27,
+  "level_B": 27,
+  "level_C": 5,
+  "persons": 29,
+  "places": 41,
+  "records": 36,
+  "sources": 33,
+  "text_units": 46,
   "themes": 22
 }

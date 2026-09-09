@@ -34,14 +34,15 @@ def main():
     with sqlite3.connect(uri,uri=True) as c:
         c.row_factory=sqlite3.Row;c.execute('PRAGMA foreign_keys=ON')
         records=fetch(c,"SELECT r.*,p.standard_name primary_person_name,f.standard_name family_name FROM records r LEFT JOIN persons p ON p.person_id=r.primary_person_id LEFT JOIN families f ON f.family_id=r.family_id WHERE r.verification_level IN (?,?,?) ORDER BY r.record_id",('A','B','C'))
+        for r in records:r.pop('entry_note',None)
         persons=fetch(c,"SELECT * FROM persons ORDER BY person_id");families=fetch(c,"SELECT * FROM families ORDER BY family_id")
         places=fetch(c,"SELECT * FROM places ORDER BY place_id");sources=fetch(c,"SELECT * FROM sources ORDER BY source_id")
         for s in sources:s['url']=safe_url(s.get('url'))
-        themes=fetch(c,"SELECT * FROM themes ORDER BY theme_id");leads=fetch(c,"SELECT * FROM leads WHERE verification_level=? ORDER BY lead_id",('D',))
+        themes=fetch(c,"SELECT * FROM themes ORDER BY theme_id");leads=fetch(c,"SELECT lead_id,lead_title,person_or_family,place_name,verification_level,current_issue,recommended_action,follow_up_status FROM leads WHERE verification_level=? ORDER BY lead_id",('D',))
         details={}
         for r in records:
             rid=r['record_id'];d=dict(r)
-            d['text_units']=[] if r['verification_level']=='C' else fetch(c,"SELECT * FROM text_units WHERE record_id=? ORDER BY sequence_no",(rid,))
+            d['text_units']=fetch(c,"SELECT * FROM text_units WHERE record_id=? ORDER BY sequence_no",(rid,))
             d['persons']=fetch(c,"SELECT p.*,rp.role,rp.note relation_note FROM record_persons rp JOIN persons p ON p.person_id=rp.person_id WHERE rp.record_id=? ORDER BY rp.role,p.person_id",(rid,))
             d['places']=fetch(c,"SELECT p.*,rp.relation_type,rp.time_note,rp.evidence_note FROM record_places rp JOIN places p ON p.place_id=rp.place_id WHERE rp.record_id=? ORDER BY rp.relation_type,p.place_id",(rid,))
             d['themes']=fetch(c,"SELECT t.*,pt.theme_name parent_name,rt.classification_basis FROM record_themes rt JOIN themes t ON t.theme_id=rt.theme_id LEFT JOIN themes pt ON pt.theme_id=t.parent_theme_id WHERE rt.record_id=? ORDER BY t.theme_id",(rid,))
@@ -63,6 +64,27 @@ def main():
             search.append({'record_id':rid,'standard_title':d['standard_title'],'fields':fields,'normalized':' '.join(fields.values())})
         counts={k:len(v) for k,v in {'records':records,'persons':persons,'families':families,'places':places,'sources':sources,'themes':themes,'leads':leads}.items()};counts['text_units']=sum(len(x['text_units']) for x in details.values());counts.update({f'level_{lv}':sum(r['verification_level']==lv for r in records) for lv in 'ABC'})
         for n,v in [('summary.json',counts),('records.json',records),('record_details.json',details),('persons.json',persons),('families.json',families),('places.json',places),('themes.json',themes),('sources.json',sources),('leads.json',leads),('search_index.json',search)]:dump(n,v)
-        dump('manifest.json',{'dataset':'江苏家训数据库公开静态版','files':['summary.json','records.json','record_details.json','persons.json','families.json','places.json','themes.json','sources.json','leads.json','search_index.json'],'counts':counts,'encoding':'UTF-8','runtime':'static'})
+        # 地理核验是独立的唯一坐标数据源，不回写 SQLite，也不把坐标复制进 places.json。
+        # 重新导出业务数据时保留已审核的 place_coordinates.json 与边界数据。
+        supplemental=['place_coordinates.json','jiangsu_boundary.geojson']
+        missing=[name for name in supplemental if not (OUT/name).exists()]
+        if missing: raise FileNotFoundError(f"缺少地图补充数据：{', '.join(missing)}")
+        coordinate_path=OUT/'place_coordinates.json'
+        coordinate_data=json.loads(coordinate_path.read_text(encoding='utf-8'))
+        known={item['place_id']:item for item in coordinate_data['places']}
+        for place in places:
+            if place['place_id'] not in known:
+                known[place['place_id']]={
+                    'place_id':place['place_id'],'status':'pending','longitude':None,'latitude':None,
+                    'coordinate_system':'WGS84','precision':'待核','display_precision':'位置待核',
+                    'geographic_verification':'D','basis':'更新数据库只提供地名与地域关系，未提供可复核的坐标或现代门牌。',
+                    'source_name':'更新数据库读取包（地点元数据）','source_url':None,
+                    'coordinate_source_url':None,'verified_at':datetime.now().date().isoformat(),
+                    'missing_evidence':'可将历史地名或家族所在地对应到现代地图的权威资料、门牌或公布坐标'
+                }
+        coordinate_data['places']=[known[place['place_id']] for place in places]
+        coordinate_data['metadata']['verified_at']=datetime.now().date().isoformat()
+        coordinate_path.write_text(json.dumps(coordinate_data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+        dump('manifest.json',{'dataset':'江苏家训数据库公开静态版','files':['summary.json','records.json','record_details.json','persons.json','families.json','places.json','themes.json','sources.json','leads.json','search_index.json',*supplemental],'counts':counts,'encoding':'UTF-8','runtime':'static','map_coordinate_system':'WGS84'})
     print(json.dumps(counts,ensure_ascii=False))
 if __name__=='__main__':main()
