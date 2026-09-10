@@ -21,7 +21,7 @@
 
 `map.html` 是独立的静态地图页。它使用本地 SVG 渲染江苏十三个设区市边界、市名和家训地点，无需地图服务密钥，也不请求第三方瓦片；即使地图加载失败，可访问地点列表仍可使用。
 
-- `public/data/place_coordinates.json` 是唯一的地点坐标数据源，通过 `place_id` 与业务数据关联。原有地点保留已核结果；新增且尚无可复核坐标的地点明确标为“位置待核”，不生成地图点。
+- `public/data/place_coordinates.json` 是唯一的已核地点坐标数据源，通过 `place_id` 与业务数据关联。原有地点保留已核结果；新增且尚无可复核坐标的地点明确标为“位置待核”，其经纬度仍为空。为便于地域浏览，地图仅对能从地点名称明确识别设区市的待核项，使用该市 GeoJSON 多边形的视觉中心附近作为“市域代表点”，以菱形虚线标记呈现。这些代表点由前端从十三市边界数据派生，不回写经纬度，不表示遗址、门牌或家族居地的真实坐标。
 - 全站发布坐标与边界统一使用 WGS84。高德地图核定的 GCJ-02 原始点位保留在 `source_coordinate`，发布值由公开逆转算法近似转换；此转换不提高证据精度。
 - `public/data/jiangsu_boundary.geojson` 以十三个设区市的 [OpenStreetMap 行政边界关系](https://www.openstreetmap.org/copyright)为内部市界来源，通过 [Nominatim](https://nominatim.openstreetmap.org/) 按“城市名，江苏省，中国”精确检索。为排除行政关系中的近海管辖范围，各市几何又与 [Natural Earth Admin 1 – States, Provinces（1:50m）](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-1-states-provinces/) 的江苏省陆地轮廓取交集，未移动任何家训点位。OpenStreetMap 数据遵循 ODbL 1.0；Natural Earth 数据为公有领域。全部边界和点位统一为 WGS84，获取和核验日期为 2026-09-07。文件保留每个边界的 OSM relation ID、双方来源与处理方法；地图仅供文化数据库概览，不用于法定界线或测绘。
 - 十三市按固定分组着色：苏南为南京、无锡、常州、苏州、镇江；苏中为南通、扬州、泰州；苏北为徐州、连云港、淮安、盐城、宿迁。

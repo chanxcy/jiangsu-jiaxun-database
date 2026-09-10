@@ -114,6 +114,15 @@ def test_projected_nearby_grouping_does_not_mutate_coordinates():
  assert 'GROUP_DISTANCE = 26' in js and 'Math.hypot' in js and 'projectedGroups' in js
  assert 'longitude +=' not in js and 'latitude +=' not in js
 
+def test_pending_places_use_disclosed_city_representative_markers():
+ js=(ROOT/'src'/'js'/'map.js').read_text(encoding='utf-8');html=(ROOT/'src'/'map.html').read_text(encoding='utf-8');css=(ROOT/'src'/'css'/'styles.css').read_text(encoding='utf-8')
+ assert 'cityForPlace' in js and 'state.cityCenters' in js and "coord.status === 'located'" in js
+ assert 'marker-pending-symbol' in js and '市域代表点（非历史遗址坐标）' in js
+ assert '位置待核（市域代表点）' in html and '不是遗址、门牌或家族居地坐标' in html
+ assert '.marker-pending-symbol' in css and '.legend-pending' in css
+ coordinates=load('place_coordinates.json')['places']
+ assert all(item['longitude'] is None and item['latitude'] is None for item in coordinates if item['status']=='pending')
+
 def test_all_public_page_footers_are_consistent():
  expected='江苏家训文献数据库·古训新问'
  pages=list((ROOT/'src').glob('*.html'));assert pages
