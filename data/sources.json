@@ -1,0 +1,763 @@
+[
+  {
+    "author_or_institution": "中共江苏省委宣传部编著",
+    "note": "文件所据正式出版页",
+    "pdf_page": null,
+    "print_page": "8",
+    "publication_or_publisher": "江苏人民出版社",
+    "publication_year": "2016",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-001",
+        "relation_note": "第8页",
+        "relation_type": "主要核录来源",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "source_id": "S-001",
+    "source_title": "江苏历史名人家训选编",
+    "source_type": "纸本出版物",
+    "url": null,
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "严可均辑",
+    "note": "各段下注《古文苑》",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "清代辑本",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-001",
+        "relation_note": "卷一",
+        "relation_type": "传本参照",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "source_id": "S-002",
+    "source_title": "全汉文 卷一",
+    "source_type": "在线古籍",
+    "url": "https://zh.wikisource.org/zh-hans/%E5%85%A8%E6%BC%A2%E6%96%87/%E5%8D%B7%E4%B8%80",
+    "volume_section": "卷一"
+  },
+  {
+    "author_or_institution": "严可均辑",
+    "note": "文末注明据多种类书辑补",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "清代辑本",
+    "records": [
+      {
+        "era": "西汉",
+        "record_id": "JX-SB-002",
+        "relation_note": "卷三十六",
+        "relation_type": "主要核录来源",
+        "standard_title": "刘向《诫子歆书》"
+      }
+    ],
+    "source_id": "S-003",
+    "source_title": "全汉文 卷三十六",
+    "source_type": "在线古籍",
+    "url": "https://zh.wikisource.org/zh-hans/%E5%85%A8%E6%BC%A2%E6%96%87/%E5%8D%B7%E4%B8%89%E5%8D%81%E5%85%AD",
+    "volume_section": "卷三十六"
+  },
+  {
+    "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+    "note": "六项节选",
+    "pdf_page": "4—5",
+    "print_page": "126—127",
+    "publication_or_publisher": null,
+    "publication_year": null,
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-001",
+        "relation_note": "原书126—127页 PDF第4—5页",
+        "relation_type": "主要核录来源",
+        "standard_title": "何济《何氏家范条件十则》"
+      }
+    ],
+    "source_id": "S-004",
+    "source_title": "第九章 泰兴《何氏家乘》（世家堂）",
+    "source_type": "官方PDF",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/5487a7968de94920abc4029badb11a56.pdf",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+    "note": "手书影像116—117页，释文118页，背景120页",
+    "pdf_page": "4",
+    "print_page": "116—120",
+    "publication_or_publisher": null,
+    "publication_year": null,
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-002",
+        "relation_note": "原书116—118页 PDF第4页",
+        "relation_type": "主要核录来源",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "source_id": "S-005",
+    "source_title": "第八章 姜堰《李氏宗谱》（青莲堂）",
+    "source_type": "官方PDF",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/f2f6cad4469145679a1eab5e12c761af.pdf",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "中央纪委国家监委",
+    "note": "2016-04-18发布",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "2016",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "relation_note": "无页码",
+        "relation_type": "传承关系来源",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "source_id": "S-006",
+    "source_title": "江苏扬州何园 祖孙翰林 兄弟博士 父女画家 姐弟院士 晚清第一园人才辈出",
+    "source_type": "官方专题",
+    "url": "https://www.ccdi.gov.cn/yaowen/201604/t20160418_141360.html",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "南通大学南通廉政研究中心",
+    "note": "2015-07-29发布",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": null,
+    "publication_year": "2015",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "relation_note": "无页码",
+        "relation_type": "元数据与引语线索来源",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "source_id": "S-007",
+    "source_title": "张謇《家诫》",
+    "source_type": "高校网站",
+    "url": "https://lzwh.ntu.edu.cn/2015/0729/c516a29730/page.htm",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "范仲淹等",
+    "note": "稳定卷篇定位",
+    "pdf_page": null,
+    "print_page": null,
+    "publication_or_publisher": "钦定古今图书集成 明伦汇编 家范典",
+    "publication_year": null,
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "卷一百",
+        "relation_type": "稳定卷篇来源",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "source_id": "S-008",
+    "source_title": "范氏义庄规矩",
+    "source_type": "在线古籍",
+    "url": "https://www.shidianguji.com/book/GJTS12/chapter/1lphelhl1l7vy",
+    "volume_section": "卷一百"
+  },
+  {
+    "author_or_institution": "楼含松主编",
+    "note": "现代整理本",
+    "pdf_page": null,
+    "print_page": "144—151",
+    "publication_or_publisher": "浙江古籍出版社",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "relation_note": "第144—151页",
+        "relation_type": "现代整理本参照",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "source_id": "S-009",
+    "source_title": "中国历代家训集成 第1册",
+    "source_type": "纸本出版物",
+    "url": null,
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "朱用纯著 陆林 吴家驹选注评析",
+    "note": "URL仅作公开传本参考",
+    "pdf_page": null,
+    "print_page": "3—5",
+    "publication_or_publisher": "江苏古籍出版社",
+    "publication_year": "2002",
+    "records": [
+      {
+        "era": "明末清初",
+        "record_id": "JX-SN-002",
+        "relation_note": "第3—5页",
+        "relation_type": "主要核录来源",
+        "standard_title": "朱用纯《治家格言》"
+      }
+    ],
+    "source_id": "S-010",
+    "source_title": "朱柏庐诗文选",
+    "source_type": "纸本出版物",
+    "url": "https://zh.wikisource.org/zh-hans/%E6%9C%B1%E5%AD%90%E5%AE%B6%E8%A8%93",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "泰州市党史方志办公室（泰州市档案馆）",
+    "note": "所录篇章为第二书",
+    "pdf_page": "3",
+    "print_page": "501",
+    "publication_or_publisher": "家风家训电子资料",
+    "publication_year": null,
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-005",
+        "relation_note": "原书501页 PDF第3页",
+        "relation_type": "主要核录来源",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "source_id": "S-011",
+    "source_title": "郑板桥家书（两则）",
+    "source_type": "官方PDF",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/2e35548fce9043d09ecf216b8cce7042.pdf",
+    "volume_section": null
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-001",
+        "relation_note": "“真诚做人 守信做事”小节",
+        "relation_type": "主要核录来源",
+        "standard_title": "刁华清家庭家训"
+      }
+    ],
+    "source_id": "S-012",
+    "source_title": "江苏人大《带着姐妹奔富路——记宿迁市人大代表刁华清》，2017-12-07",
+    "source_type": "官方或机构网页",
+    "url": "https://www.jsrd.gov.cn/sxcz/sq/201712/t20171207_1215734.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2022",
+    "records": [
+      {
+        "era": "当代家庭使用",
+        "record_id": "JX-MOD-SB-004",
+        "relation_note": "“弘扬家庭美德，传承优良家风”首段",
+        "relation_type": "主要核录来源",
+        "standard_title": "夏宝国家庭家训"
+      }
+    ],
+    "source_id": "S-013",
+    "source_title": "徐睿翔《江苏：让文明新风吹进千万家庭》，新华日报，2022-06-30；中共江苏省委新闻网转载",
+    "source_type": "官方或机构网页",
+    "url": "https://www.zgjssw.gov.cn/yaowen/202206/t20220630_7601065.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SB-007",
+        "relation_note": "介绍阮葵生家学并提及《阮氏笔训》的段落",
+        "relation_type": "补录线索来源",
+        "standard_title": "阮氏笔训"
+      }
+    ],
+    "source_id": "S-014",
+    "source_title": "淮安政协文史网相关阮氏文史文章",
+    "source_type": "官方或机构网页",
+    "url": "https://zx.huaian.gov.cn/col/14066_664815/art/17067168/1706750371554BCmeltRx.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SB-003",
+        "relation_note": "“王艮制定的家规——《孝悌箴》”部分。核验日期：2026年9月8日。",
+        "relation_type": "主要核录来源",
+        "standard_title": "王艮《孝悌箴》"
+      }
+    ],
+    "source_id": "S-015",
+    "source_title": "王艮的家规、学规与乡规；2017-11-06。",
+    "source_type": "官方或机构网页",
+    "url": "https://www.lzxq.gov.cn/system/2017/11/06/000109330.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2024",
+    "records": [
+      {
+        "era": "2024年续修本",
+        "record_id": "JX-SB-004",
+        "relation_note": "入藏报道第1—2段；宗谱原页待补。核验日期：2026年9月8日。",
+        "relation_type": "补录线索来源",
+        "standard_title": "《茆氏宗谱》家训栏目"
+      }
+    ],
+    "source_id": "S-016",
+    "source_title": "《茆氏宗谱》入藏盐城馆；2024-05-24。",
+    "source_type": "官方或机构网页",
+    "url": "https://www.dajs.gov.cn/art/2024/5/24/art_40_41787.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2022",
+    "records": [
+      {
+        "era": "2021年第九次编修",
+        "record_id": "JX-SB-008",
+        "relation_note": "介绍2021年修谱内容及新增家教家风家训专栏的段落",
+        "relation_type": "补录线索来源",
+        "standard_title": "阜宁陈氏宗谱 家教家风家训专栏"
+      }
+    ],
+    "source_id": "S-017",
+    "source_title": "江苏档案信息网《〈阜宁陈氏宗谱〉入藏盐城馆》，2022-02-14",
+    "source_type": "官方或机构网页",
+    "url": "https://dajs.gov.cn/art/2022/2/14/art_40_8472.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2018",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SB-005",
+        "relation_note": "报道“一地一特色”中的三家族名称。核验日期：2026年9月8日。",
+        "relation_type": "补录线索来源",
+        "standard_title": "东海三家族承传线索"
+      }
+    ],
+    "source_id": "S-018",
+    "source_title": "东海县‘一地一特色’打造‘廉洁地标’；2018-08-08。",
+    "source_type": "官方或机构网页",
+    "url": "https://jsnews.jschina.com.cn/lyg/a/201808/t20180808_1821381.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2018",
+    "records": [
+      {
+        "era": "现代",
+        "record_id": "JX-SB-006",
+        "relation_note": "报道“一封家书致亲爱的女儿”部分。核验日期：2026年9月8日。",
+        "relation_type": "补录线索来源",
+        "standard_title": "陈友林致女儿家书"
+      }
+    ],
+    "source_id": "S-019",
+    "source_title": "连云港六旬老人一封家书给后辈传递好家风好家训；2018-08-22。",
+    "source_type": "官方或机构网页",
+    "url": "https://news.jstv.com/a/20180822/1534908858320.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-002",
+        "relation_note": "安从强家庭条目末尾“家训”栏",
+        "relation_type": "主要核录来源",
+        "standard_title": "安从强家庭家训"
+      }
+    ],
+    "source_id": "S-020",
+    "source_title": "中国江苏网《连云港市“十大最美家庭”事迹公示》，2017-01-22",
+    "source_type": "官方或机构网页",
+    "url": "https://jsnews.jschina.com.cn/lyg/a/201701/t20170122_8329.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2021",
+    "records": [
+      {
+        "era": "当代",
+        "record_id": "JX-MOD-SB-003",
+        "relation_note": "“姜在艳家训”栏四行文字",
+        "relation_type": "主要核录来源",
+        "standard_title": "姜在艳家庭家训"
+      }
+    ],
+    "source_id": "S-021",
+    "source_title": "赣榆宣传《百家训 润福城丨姜在艳家庭：涵养好家风，润物细无声》，2021-04-16",
+    "source_type": "官方或机构网页",
+    "url": "https://www.thepaper.cn/newsDetail_forward_12243539",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2023",
+    "records": [
+      {
+        "era": "姜堰蒋垛藏版年代未核",
+        "record_id": "JX-SZ-006",
+        "relation_note": "印刷页码488；本链接PDF第5页；第二节第一组第六条“训读书”",
+        "relation_type": "主要核录来源",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
+      }
+    ],
+    "source_id": "S-022",
+    "source_title": "泰州市地方志办公室网站所附《家规家训》第二十九章“泰兴《焦氏宗谱》（三诏堂）”",
+    "source_type": "官方或机构网页",
+    "url": "https://szb.taizhou.gov.cn/cms_files/filemanager/923329986/attach/20235/ec32afb5327a431fa511e58d1da8ea4e.pdf",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2026",
+    "records": [
+      {
+        "era": "南北朝至隋",
+        "record_id": "JX-SN-004",
+        "relation_note": "专题中“夫风化者”引文段；原典篇次待核。核验日期：2026年9月8日。",
+        "relation_type": "主要核录来源",
+        "standard_title": "颜之推《颜氏家训》"
+      }
+    ],
+    "source_id": "S-023",
+    "source_title": "中国传统中的家规·江苏南京颜之推：家训之祖 金声玉振；发布日期待核。",
+    "source_type": "官方或机构网页",
+    "url": "https://www.qyjj.gov.cn/view.thtml?id=51588",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2023",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-003",
+        "relation_note": "核验日期：2026年9月8日。",
+        "relation_type": "补录线索来源",
+        "standard_title": "甘氏“友恭”家训"
+      }
+    ],
+    "source_id": "S-024",
+    "source_title": "南京晨报小记者在民俗博物馆学家风；2023-08-21。",
+    "source_type": "官方或机构网页",
+    "url": "https://doss.xhby.net/zpaper/njcb/pc/att/202308/21/7eba79db-4b7e-4e1d-957b-5af7c8223ccc.pdf",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SN-006",
+        "relation_note": "报道归引《鹤坡公家训》的“发蒙”句。核验日期：2026年9月8日。",
+        "relation_type": "主要核录来源",
+        "standard_title": "庄起元《鹤坡公家训》"
+      },
+      {
+        "era": "成文年代未核",
+        "record_id": "JX-SN-017",
+        "relation_note": "“第九世庄恒提出4条训诫”所在段；报纸电子版见备注",
+        "relation_type": "主要核录来源",
+        "standard_title": "庄恒训子四条 节选"
+      }
+    ],
+    "source_id": "S-025",
+    "source_title": "《人民日报海外版》2017-01-17第7版《常州庄氏家训：读圣贤书，做豪杰事》；清风扬帆网转载",
+    "source_type": "官方或机构网页",
+    "url": "https://www.jssjw.gov.cn/art/2017/1/17/art_437_31515.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2018",
+    "records": [
+      {
+        "era": "2018年公开展示可核",
+        "record_id": "JX-TR-SN-001",
+        "relation_note": "“史侯祠清廉堂”段末“共同的家规祖训”后",
+        "relation_type": "主要核录来源",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
+      }
+    ],
+    "source_id": "S-026",
+    "source_title": "清风扬帆网《溧阳史氏家训：刚直留青史 忠勇铸家魂》，2018-11-21",
+    "source_type": "官方或机构网页",
+    "url": "https://www.jssjw.gov.cn/art/2018/11/21/art_615_6286.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2023",
+    "records": [
+      {
+        "era": "明清至近现代承传",
+        "record_id": "JX-SN-014",
+        "relation_note": "“讲信睦抱诚守真”及唐时长布庄叙述",
+        "relation_type": "补录线索来源",
+        "standard_title": "严家桥唐氏家训 承传记录"
+      }
+    ],
+    "source_id": "S-027",
+    "source_title": "无锡家风网《无锡严家桥唐氏家训》，2023-05-06，标注来源荡口古镇唐氏宗祠",
+    "source_type": "官方或机构网页",
+    "url": "https://wxjfw.cwxu.edu.cn/info/1034/1273.htm",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2015",
+    "records": [
+      {
+        "era": "清代语境",
+        "record_id": "JX-SN-008",
+        "relation_note": "第九则“职业当勤”",
+        "relation_type": "主要核录来源",
+        "standard_title": "荣氏家训十二则"
+      }
+    ],
+    "source_id": "S-028",
+    "source_title": "清风扬帆网《荣氏家训十二则》，2015-10-29",
+    "source_type": "官方或机构网页",
+    "url": "https://www.jssjw.gov.cn/art/2015/10/29/art_601_103278.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2018",
+    "records": [
+      {
+        "era": "形成层次待核",
+        "record_id": "JX-SN-009",
+        "relation_note": "“子孙虽愚”所在段落",
+        "relation_type": "主要核录来源",
+        "standard_title": "钱氏家训 无锡承传节选"
+      }
+    ],
+    "source_id": "S-029",
+    "source_title": "无锡市档案史志馆转载无锡日报《齐家济世话〈钱氏家训〉》，2018-03-02",
+    "source_type": "官方或机构网页",
+    "url": "https://daj.wuxi.gov.cn/doc/2018/03/02/2424963.shtml",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2026",
+    "records": [
+      {
+        "era": "元末明初人物",
+        "record_id": "JX-SN-005",
+        "relation_note": "《虑得集·家劝一》转引；原书页码待核。核验日期：2026年9月8日。",
+        "relation_type": "主要核录来源",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      }
+    ],
+    "source_id": "S-030",
+    "source_title": "无锡华氏家训摘编；发布日期待核。",
+    "source_type": "官方或机构网页",
+    "url": "https://www.gzjjjc.gov.cn/gaojian/10af60b24e604ebcb74131632753729e.pdf",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2017",
+    "records": [
+      {
+        "era": "宋代",
+        "record_id": "JX-SN-015",
+        "relation_note": "“叶梦得的治生家训”之“第一，关于治生的意义”",
+        "relation_type": "主要核录来源",
+        "standard_title": "石林治生家训要略 节选"
+      },
+      {
+        "era": "宋代",
+        "record_id": "JX-SN-016",
+        "relation_note": "介绍《石林家训》部分“再次，力学不懈”",
+        "relation_type": "主要核录来源",
+        "standard_title": "石林家训 力学节选"
+      }
+    ],
+    "source_id": "S-031",
+    "source_title": "清风扬帆网《南宋的治生家训与制用家训》，2017-01-16，来源中国纪检监察报",
+    "source_type": "官方或机构网页",
+    "url": "https://www.jssjw.gov.cn/art/2017/1/16/art_437_31511.html",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2019",
+    "records": [
+      {
+        "era": "清",
+        "record_id": "JX-SN-010",
+        "relation_note": "论文第157页（PDF第4页）；注④指向《潘氏宗谱》卷首《家训》第7a叶",
+        "relation_type": "主要核录来源",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      },
+      {
+        "era": "清",
+        "record_id": "JX-SN-011",
+        "relation_note": "论文第157页（PDF第4页）；注⑦指向《彭氏宗谱》卷6《碑铭传述三》第11b叶",
+        "relation_type": "主要核录来源",
+        "standard_title": "彭定求 生圹志 训子节选"
+      },
+      {
+        "era": "引文所据谱为民国二十六年石印本",
+        "record_id": "JX-SN-012",
+        "relation_note": "论文第158页（PDF第5页）；注⑧指向《莫厘王氏家谱》卷23《杂文》第75a叶",
+        "relation_type": "主要核录来源",
+        "standard_title": "莫厘王氏 玉润堂家训"
+      },
+      {
+        "era": "清光绪二十四年刻本",
+        "record_id": "JX-SN-013",
+        "relation_note": "论文第157页（PDF第4页）；注⑤指向卷1《家训十》第32页",
+        "relation_type": "补录线索来源",
+        "standard_title": "包山郑氏族谱 家训十 安清贫"
+      }
+    ],
+    "source_id": "S-032",
+    "source_title": "朱春阳《清代中前期江南社会与地方家族——以苏州玄妙观为中心的考察》，《安徽史学》2019年第6期",
+    "source_type": "官方或机构网页",
+    "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/academic/2019/201912_qdzqqjnshydfjz_zcy.pdf",
+    "volume_section": ""
+  },
+  {
+    "author_or_institution": "",
+    "note": "由本次合并文件转录；未重新访问网页。",
+    "pdf_page": "",
+    "print_page": "",
+    "publication_or_publisher": "",
+    "publication_year": "2018",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-007",
+        "relation_note": "“明清民国以来柳氏家训的传承细化”部分。核验日期：2026年9月8日。",
+        "relation_type": "主要核录来源",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      }
+    ],
+    "source_id": "S-033",
+    "source_title": "镇江柳氏宗族的家训；2018-03-19。",
+    "source_type": "官方或机构网页",
+    "url": "https://www.jsw.com.cn/2018/0319/1440906.shtml",
+    "volume_section": ""
+  }
+]

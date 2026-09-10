@@ -1,0 +1,338 @@
+[
+  {
+    "branch_name": "黄桥支系",
+    "family_id": "F-001",
+    "genealogy_or_carrier": "泰兴《何氏家乘》",
+    "hall_name": "世家堂",
+    "note": "家族形成与承传",
+    "primary_place": "泰州泰兴黄桥",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      }
+    ],
+    "standard_name": "泰兴何氏"
+  },
+  {
+    "branch_name": "溱潼支系",
+    "family_id": "F-002",
+    "genealogy_or_carrier": "姜堰《李氏宗谱》",
+    "hall_name": "青莲堂",
+    "note": "汇编目录另作《李氏世谱》",
+    "primary_place": "泰州姜堰溱潼",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "standard_name": "姜堰李氏"
+  },
+  {
+    "branch_name": "扬州何园支系",
+    "family_id": "F-003",
+    "genealogy_or_carrier": "安徽望江吉水何氏家谱（原文表述待进一步核名）",
+    "hall_name": null,
+    "note": "接受、承传与当代展示",
+    "primary_place": "扬州",
+    "records": [
+      {
+        "era": "明代",
+        "record_id": "JX-SZ-003",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "standard_name": "何园何氏"
+  },
+  {
+    "branch_name": "张謇家族",
+    "family_id": "F-004",
+    "genealogy_or_carrier": "碑刻与家庙承传",
+    "hall_name": null,
+    "note": "1921年形成",
+    "primary_place": "南通",
+    "records": [
+      {
+        "era": "民国",
+        "record_id": "JX-SZ-004",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "standard_name": "南通张氏"
+  },
+  {
+    "branch_name": "苏州义庄支系",
+    "family_id": "F-005",
+    "genealogy_or_carrier": "范氏义庄",
+    "hall_name": null,
+    "note": "范仲淹初定，后人多次续定",
+    "primary_place": "苏州",
+    "records": [
+      {
+        "era": "北宋",
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "standard_name": "范氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-006",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "淮安；淮安阮氏、勺湖草堂相关文史",
+    "records": [
+      {
+        "era": "清代",
+        "record_id": "JX-SB-007",
+        "standard_title": "阮氏笔训"
+      }
+    ],
+    "standard_name": "淮安阮氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-007",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "盐城；阜宁",
+    "records": [
+      {
+        "era": "2024年续修本",
+        "record_id": "JX-SB-004",
+        "standard_title": "《茆氏宗谱》家训栏目"
+      }
+    ],
+    "standard_name": "盐城茆氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-008",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "盐城；阜宁殷家庄陈氏；盐城市档案馆藏",
+    "records": [
+      {
+        "era": "2021年第九次编修",
+        "record_id": "JX-SB-008",
+        "standard_title": "阜宁陈氏宗谱 家教家风家训专栏"
+      }
+    ],
+    "standard_name": "阜宁陈氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-009",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "连云港；东海县白石岭、黄川、桃林",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SB-005",
+        "standard_title": "东海三家族承传线索"
+      }
+    ],
+    "standard_name": "东海三家族"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-010",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "泰州；泰兴焦氏；姜堰蒋垛藏版",
+    "records": [
+      {
+        "era": "姜堰蒋垛藏版年代未核",
+        "record_id": "JX-SZ-006",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
+      }
+    ],
+    "standard_name": "泰兴焦氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-011",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "南京；甘熙宅第／金陵友恭堂甘氏",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-003",
+        "standard_title": "甘氏“友恭”家训"
+      }
+    ],
+    "standard_name": "南京甘氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-012",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "常州；溧阳史氏与史侯祠清廉堂",
+    "records": [
+      {
+        "era": "2018年公开展示可核",
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
+      }
+    ],
+    "standard_name": "溧阳史氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-013",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "无锡；严家桥；文章称祖籍常州武进",
+    "records": [
+      {
+        "era": "明清至近现代承传",
+        "record_id": "JX-SN-014",
+        "standard_title": "严家桥唐氏家训 承传记录"
+      }
+    ],
+    "standard_name": "严家桥唐氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-014",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "无锡；无锡荣氏",
+    "records": [
+      {
+        "era": "清代语境",
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      }
+    ],
+    "standard_name": "无锡荣氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-015",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "无锡；无锡钱钟书故居及钱氏家族",
+    "records": [
+      {
+        "era": "形成层次待核",
+        "record_id": "JX-SN-009",
+        "standard_title": "钱氏家训 无锡承传节选"
+      }
+    ],
+    "standard_name": "无锡钱氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-016",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "无锡；荡口",
+    "records": [
+      {
+        "era": "元末明初人物",
+        "record_id": "JX-SN-005",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      }
+    ],
+    "standard_name": "无锡华氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-017",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "苏州；苏州包山郑氏",
+    "records": [
+      {
+        "era": "清光绪二十四年刻本",
+        "record_id": "JX-SN-013",
+        "standard_title": "包山郑氏族谱 家训十 安清贫"
+      }
+    ],
+    "standard_name": "包山郑氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-018",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "苏州；苏州地方家族语境；具体潘氏支派待核",
+    "records": [
+      {
+        "era": "清",
+        "record_id": "JX-SN-010",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      }
+    ],
+    "standard_name": "苏州潘氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-019",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "苏州；莫厘王氏；具体居地待核谱",
+    "records": [
+      {
+        "era": "引文所据谱为民国二十六年石印本",
+        "record_id": "JX-SN-012",
+        "standard_title": "莫厘王氏 玉润堂家训"
+      }
+    ],
+    "standard_name": "莫厘王氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-020",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "苏州；长洲彭氏",
+    "records": [
+      {
+        "era": "清",
+        "record_id": "JX-SN-011",
+        "standard_title": "彭定求 生圹志 训子节选"
+      }
+    ],
+    "standard_name": "苏州彭氏"
+  },
+  {
+    "branch_name": "",
+    "family_id": "F-021",
+    "genealogy_or_carrier": "",
+    "hall_name": "",
+    "note": "据本次来源文件建立；支派、谱本和卷叶按备注继续复核。",
+    "primary_place": "镇江；京江柳氏",
+    "records": [
+      {
+        "era": "时代待核",
+        "record_id": "JX-SN-007",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      }
+    ],
+    "standard_name": "京江柳氏"
+  }
+]

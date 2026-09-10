@@ -1,0 +1,610 @@
+[
+  {
+    "definition": "人与社区、乡里、社会及自然万物的关系",
+    "level": "一级",
+    "parent_theme_id": null,
+    "records": [
+      {
+        "record_id": "JX-MOD-SB-001",
+        "standard_title": "刁华清家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-004",
+        "standard_title": "夏宝国家庭家训"
+      },
+      {
+        "record_id": "JX-SB-001",
+        "standard_title": "刘邦《手敕太子文》"
+      },
+      {
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      },
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-003",
+        "standard_title": "甘氏“友恭”家训"
+      },
+      {
+        "record_id": "JX-SN-005",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      },
+      {
+        "record_id": "JX-SN-007",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      },
+      {
+        "record_id": "JX-SZ-003",
+        "standard_title": "何园承传何伦《何氏家规》"
+      },
+      {
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-001",
+    "theme_name": "人与附近"
+  },
+  {
+    "definition": "修身、自省、处世与个人行为",
+    "level": "一级",
+    "parent_theme_id": null,
+    "records": [
+      {
+        "record_id": "JX-MOD-SB-001",
+        "standard_title": "刁华清家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-003",
+        "standard_title": "姜在艳家庭家训"
+      },
+      {
+        "record_id": "JX-SB-001",
+        "standard_title": "刘邦《手敕太子文》"
+      },
+      {
+        "record_id": "JX-SB-002",
+        "standard_title": "刘向《诫子歆书》"
+      },
+      {
+        "record_id": "JX-SB-003",
+        "standard_title": "王艮《孝悌箴》"
+      },
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-005",
+        "standard_title": "华贞固《虑得集·家劝一》"
+      },
+      {
+        "record_id": "JX-SN-007",
+        "standard_title": "柳可荫《来止公宗训十条》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SN-010",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      },
+      {
+        "record_id": "JX-SN-011",
+        "standard_title": "彭定求 生圹志 训子节选"
+      },
+      {
+        "record_id": "JX-SN-012",
+        "standard_title": "莫厘王氏 玉润堂家训"
+      },
+      {
+        "record_id": "JX-SN-015",
+        "standard_title": "石林治生家训要略 节选"
+      },
+      {
+        "record_id": "JX-SN-016",
+        "standard_title": "石林家训 力学节选"
+      },
+      {
+        "record_id": "JX-SN-017",
+        "standard_title": "庄恒训子四条 节选"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      },
+      {
+        "record_id": "JX-SZ-004",
+        "standard_title": "张謇《家诫》"
+      },
+      {
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-002",
+    "theme_name": "人与自己"
+  },
+  {
+    "definition": "亲子、兄弟、夫妇及家族关系",
+    "level": "一级",
+    "parent_theme_id": null,
+    "records": [
+      {
+        "record_id": "JX-MOD-SB-002",
+        "standard_title": "安从强家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-003",
+        "standard_title": "姜在艳家庭家训"
+      },
+      {
+        "record_id": "JX-MOD-SB-004",
+        "standard_title": "夏宝国家庭家训"
+      },
+      {
+        "record_id": "JX-SB-003",
+        "standard_title": "王艮《孝悌箴》"
+      },
+      {
+        "record_id": "JX-SB-006",
+        "standard_title": "陈友林致女儿家书"
+      },
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-003",
+        "standard_title": "甘氏“友恭”家训"
+      },
+      {
+        "record_id": "JX-SN-004",
+        "standard_title": "颜之推《颜氏家训》"
+      },
+      {
+        "record_id": "JX-SN-006",
+        "standard_title": "庄起元《鹤坡公家训》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SN-010",
+        "standard_title": "潘氏宗谱 家训 安清贫"
+      },
+      {
+        "record_id": "JX-SN-011",
+        "standard_title": "彭定求 生圹志 训子节选"
+      },
+      {
+        "record_id": "JX-SN-012",
+        "standard_title": "莫厘王氏 玉润堂家训"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      },
+      {
+        "record_id": "JX-SZ-003",
+        "standard_title": "何园承传何伦《何氏家规》"
+      },
+      {
+        "record_id": "JX-SZ-005",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      },
+      {
+        "record_id": "JX-SZ-006",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-003",
+    "theme_name": "人与家庭"
+  },
+  {
+    "definition": "读书、教育、求知与人才培养",
+    "level": "一级",
+    "parent_theme_id": null,
+    "records": [
+      {
+        "record_id": "JX-MOD-SB-002",
+        "standard_title": "安从强家庭家训"
+      },
+      {
+        "record_id": "JX-SB-002",
+        "standard_title": "刘向《诫子歆书》"
+      },
+      {
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      },
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SN-004",
+        "standard_title": "颜之推《颜氏家训》"
+      },
+      {
+        "record_id": "JX-SN-006",
+        "standard_title": "庄起元《鹤坡公家训》"
+      },
+      {
+        "record_id": "JX-SN-008",
+        "standard_title": "荣氏家训十二则"
+      },
+      {
+        "record_id": "JX-SN-009",
+        "standard_title": "钱氏家训 无锡承传节选"
+      },
+      {
+        "record_id": "JX-SN-015",
+        "standard_title": "石林治生家训要略 节选"
+      },
+      {
+        "record_id": "JX-SN-016",
+        "standard_title": "石林家训 力学节选"
+      },
+      {
+        "record_id": "JX-SN-017",
+        "standard_title": "庄恒训子四条 节选"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      },
+      {
+        "record_id": "JX-SZ-004",
+        "standard_title": "张謇《家诫》"
+      },
+      {
+        "record_id": "JX-SZ-005",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      },
+      {
+        "record_id": "JX-SZ-006",
+        "standard_title": "焦氏宗谱 祖训十条 训读书"
+      },
+      {
+        "record_id": "JX-TR-SN-001",
+        "standard_title": "溧阳史氏十六字家训 承传用语"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-004",
+    "theme_name": "人与学习"
+  },
+  {
+    "definition": "鼓励学习与读书",
+    "level": "二级",
+    "parent_theme_id": "TH-004",
+    "records": [
+      {
+        "record_id": "JX-SB-001",
+        "standard_title": "刘邦《手敕太子文》"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      },
+      {
+        "record_id": "JX-SZ-004",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-005",
+    "theme_name": "劝学"
+  },
+  {
+    "definition": "反思自身行为",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SB-001",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-006",
+    "theme_name": "自我反省"
+  },
+  {
+    "definition": "亲笔书写与直接表达",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SB-001",
+        "standard_title": "刘邦《手敕太子文》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-007",
+    "theme_name": "亲自表达"
+  },
+  {
+    "definition": "显达时保持谨慎",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SB-002",
+        "standard_title": "刘向《诫子歆书》"
+      },
+      {
+        "record_id": "JX-SZ-004",
+        "standard_title": "张謇《家诫》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-008",
+    "theme_name": "得志戒骄"
+  },
+  {
+    "definition": "任职时敬慎自新",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SB-002",
+        "standard_title": "刘向《诫子歆书》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-009",
+    "theme_name": "任职反省"
+  },
+  {
+    "definition": "奉养和尊敬父母长辈",
+    "level": "二级",
+    "parent_theme_id": "TH-003",
+    "records": [
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-003",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-010",
+    "theme_name": "孝亲"
+  },
+  {
+    "definition": "与乡里邻人和睦相处",
+    "level": "二级",
+    "parent_theme_id": "TH-001",
+    "records": [
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-011",
+    "theme_name": "睦邻"
+  },
+  {
+    "definition": "节制消费与勤劳持家",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      },
+      {
+        "record_id": "JX-SZ-003",
+        "standard_title": "何园承传何伦《何氏家规》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-012",
+    "theme_name": "节俭"
+  },
+  {
+    "definition": "历史性别分工与限制",
+    "level": "二级",
+    "parent_theme_id": "TH-003",
+    "records": [
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      },
+      {
+        "record_id": "JX-SZ-001",
+        "standard_title": "何济《何氏家范条件十则》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-013",
+    "theme_name": "性别规范"
+  },
+  {
+    "definition": "救济贫困与急难",
+    "level": "二级",
+    "parent_theme_id": "TH-001",
+    "records": [
+      {
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      },
+      {
+        "record_id": "JX-SZ-002",
+        "standard_title": "李贞发《李氏家训》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-014",
+    "theme_name": "济困"
+  },
+  {
+    "definition": "家族制度、资源配置与管理边界",
+    "level": "二级",
+    "parent_theme_id": "TH-001",
+    "records": [
+      {
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-015",
+    "theme_name": "制度治理"
+  },
+  {
+    "definition": "家族教育资源与教师供给",
+    "level": "二级",
+    "parent_theme_id": "TH-004",
+    "records": [
+      {
+        "record_id": "JX-SN-001",
+        "standard_title": "范仲淹等《范氏义庄规矩》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-016",
+    "theme_name": "教育供给"
+  },
+  {
+    "definition": "日常作息与家务秩序",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-017",
+    "theme_name": "作息"
+  },
+  {
+    "definition": "家庭和睦",
+    "level": "二级",
+    "parent_theme_id": "TH-003",
+    "records": [
+      {
+        "record_id": "JX-SN-002",
+        "standard_title": "朱用纯《治家格言》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-018",
+    "theme_name": "和顺"
+  },
+  {
+    "definition": "尊重动物与生命",
+    "level": "二级",
+    "parent_theme_id": "TH-001",
+    "records": [
+      {
+        "record_id": "JX-SZ-005",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-019",
+    "theme_name": "爱护生命"
+  },
+  {
+    "definition": "培养忠厚仁恕品格",
+    "level": "二级",
+    "parent_theme_id": "TH-002",
+    "records": [
+      {
+        "record_id": "JX-SZ-005",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-020",
+    "theme_name": "忠厚"
+  },
+  {
+    "definition": "平等对待家人子女及他人",
+    "level": "二级",
+    "parent_theme_id": "TH-001",
+    "records": [
+      {
+        "record_id": "JX-SZ-005",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-021",
+    "theme_name": "平等待人"
+  },
+  {
+    "definition": "读书目的在于明理做人",
+    "level": "二级",
+    "parent_theme_id": "TH-004",
+    "records": [
+      {
+        "record_id": "JX-SZ-005",
+        "standard_title": "郑燮《潍县署中与舍弟墨第二书》"
+      }
+    ],
+    "status": "启用",
+    "theme_id": "TH-022",
+    "theme_name": "读书明理"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "current_issue": "未取得原谱影像、卷叶与可靠页码；所谓第三条可能存在后期改写。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-001",
+    "lead_title": "丰县陈氏《族规》",
+    "person_or_family": "陈氏",
+    "place_name": "丰县",
+    "recommended_action": "查《江苏家训史》纸本引注，并向谱藏机构核原谱。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-002",
+    "lead_title": "松陵陆氏材料",
+    "person_or_family": "陆氏",
+    "place_name": "松陵",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-003",
+    "lead_title": "三沙王氏材料",
+    "person_or_family": "王氏",
+    "place_name": "三沙",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-004",
+    "lead_title": "昆陵李氏材料",
+    "person_or_family": "李氏",
+    "place_name": "昆陵",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "未取得完整谱本、卷次和页码。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-005",
+    "lead_title": "洞庭东山万氏材料",
+    "person_or_family": "万氏",
+    "place_name": "洞庭东山",
+    "recommended_action": "只建馆藏线索，不录原文。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "暂未取得可核原典、具体支派或稳定地域证据。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-006",
+    "lead_title": "淮安费氏家训十要（网络题名）",
+    "person_or_family": "淮安费氏",
+    "place_name": "江苏地域关系待核",
+    "recommended_action": "原谱、费氏支派、作者与卷叶；与浙江射村费氏区别。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "暂未取得可核原典、具体支派或稳定地域证据。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-007",
+    "lead_title": "渤海堂封氏治家规训",
+    "person_or_family": "渤海堂封氏",
+    "place_name": "江苏地域关系待核",
+    "recommended_action": "2004年原件、作者全名、谱本、地点、使用授权；绝不可标为古训。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "暂未取得可核原典、具体支派或稳定地域证据。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-008",
+    "lead_title": "宿迁敦厚堂刘氏家规·家风·家训",
+    "person_or_family": "宿迁敦厚堂刘氏",
+    "place_name": "江苏地域关系待核",
+    "recommended_action": "原谱封面、序文、家训页、编者、年代和县村。",
+    "verification_level": "D"
+  },
+  {
+    "current_issue": "暂未取得可核原典、具体支派或稳定地域证据。",
+    "follow_up_status": "待查",
+    "lead_id": "LD-009",
+    "lead_title": "臧氏家训译文线索",
+    "person_or_family": "臧氏",
+    "place_name": "江苏地域关系待核",
+    "recommended_action": "宿迁臧氏具体支派与对应古文底本；不得套用杭州上臧村材料。",
+    "verification_level": "D"
+  }
+]
